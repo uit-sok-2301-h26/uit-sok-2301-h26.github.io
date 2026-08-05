@@ -1,0 +1,14 @@
+.title {
+  font-size: 80px !important;
+  color: white !important;
+}
+
+.quarto-title-author-name {
+  font-size: 40px;
+  color: white !important;
+}
+
+.date {
+  font-size: 20px;
+  color: white !important;
+}

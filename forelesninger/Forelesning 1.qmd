@@ -1,0 +1,212 @@
+---
+title: "1: Introduksjon"
+subtitle: SOK-2301 - Nytte-kostnadsanalyse i teori og praksis
+
+author: "Espen Sirnes"
+date: "2025-08-14"
+
+format:
+  html: default
+  pdf: default
+  ipynb: default
+---
+
+
+# Litt om kurset
+
+
+Alle innleveringer vil handle om ett case som dere skal jobbe med gjennom hele semesteret 
+
+* To obligatoriske innleveringer (arbeidskrav) 
+* Presentasjoner (arbeidskrav) 
+* Prosjektoppgave (karaktergivende) 
+* Fra 1-3 i hver gruppe 
+
+
+# Problemstillingen
+* Prosjektet dere skal jobbe med er å lage en samfunnsøkonomisk utredning av ny Kvaløyaforbindelse
+* Dagens bro til Kvaløya er overbelastet, noe som fører til kø, forsinkelser og redusert fremkommelighet for både privatpersoner og næringsliv. 
+* Dette skaper utfordringer for transport, beredskap og utvikling på Kvaløya, og det er behov for tiltak som kan bedre trafikksituasjonen og sikre tilstrekkelig kapasitet for fremtidig vekst.
+
+![Kø Kvaløya](/img/que_kvaloya.jpg)
+
+# Nytte
+* En ny forbindelse vil, i tillegg til å økt fremkommelighet og bedre bedre beredskap, potensielt kunne bidra til rimelige tomter. 
+* Tromsø er en av de dyreste byene å bo i. 
+* En ny Kvaløyaforbindelse kan knytte nye områder og rimelige tomter på Kvaløya nær sentrum, og bidra til lavere boligpriser.
+
+
+# Informasjon som må innhentes
+* Hvor mye koster det å bygge tunnel?
+* Hva slags tunnel skal bygges
+* Hvilke traseer kan være aktuelle?
+* Samfunnsøkonomisk betydning av byutvikling (rimeligere tomter)
+* Hva vil det ha å si for 
+   * trafikksikkerhet
+   * kollektivtransport
+   * syklende og gående
+   * natur og miljø
+   * næringsutvikling/næringstrafikk
+
+
+# Innleveringene
+
+## Obligatorisk innlevering 1 (Fase 1-3 ihht veilederen):
+
+* Gjør en vurdering av tiltaket ihht. DFØs veileder og identifiser hvilken informasjon som trengs og hvilke forutsetninger som må gjøres
+* Innhent informasjon
+* Sett opp en disposisjon/arbeidsplan (bruk veilederen)
+
+## Obligatorisk innlevering 2 (Fase 3-5):
+* Bruke det du har lært til å sette opp en nytte-kostnadsanalyse
+* Beregne nåverdi av prosjektet
+
+## Endelig innlevering (Fase 1-8):
+* Forbedre det som er gjort i tidligere innleveringer
+* Lever en endelig utredning av tiltaket.
+* Utredningen bør ha samme form som eksemplene i pensum.
+* Målet er en rapport som kunne vært presentert for Stortinget og Olje- og energidepartementet som grunnlag for en beslutning om elektrifisering.
+
+
+# Nytte-kostnadsanalyse
+
+Nytte-kostnadsanalyse er en utredning av offentlige prosjekter som skal hjelpe politikerne og offentlige institusjoner til å prioritere prosjekter. 
+
+Det skal være en faglig vurdering og så objektiv som mulig. DFØ har en veileder som skal standardisere prosessen
+
+
+## Hvorfor?
+
+* Mest mulig velferd ut av samfunnets knappe ressurser ved å sørge for effektiv ressursbruk 
+* En systematisk gjennomgang av alle virkninger for berørte grupper i samfunnet 
+* Sile ut ulønnsomme tiltak på et tidlig tidspunkt 
+* Bidra til et godt, transparent og faglig beslutningsgrunnlag for å
+    * rangere og prioritere mellom alternative tiltak 
+    * realisere gevinster når tiltaket er iverksatt 
+    * ha resultatmål for evaluering av tiltaket i etterkant 
+    * gjøre grunnlaget for beslutninger om offentlige tiltak mer synlig for offentligheten
+
+## Andre grunner  
+* I tillegg finnes det mindre allmennyttige grunner. 
+* Mange av de samfunnsøkonomiske analysene som publiseres, gjøres på privat initativ. 
+* Målet er da ofte å påvirke politiske beslutninger, i tillegg til at de også kan ha målsetninger som over.
+
+## Hvilke tema?
+
+* Alle typer offentlige tiltak: reguleringer, investeringer, tjenesteproduksjon, reformer osv.
+* På tiltak utført av private aktører på oppdrag for staten
+* Innenfor alle sektorer i samfunnet
+* På prioriteringer innenfor en virksomhets ansvarsområder, innad i en sektor eller på tvers av ulike sektorer
+
+
+## Analysen skal
+
+* Ta hensyn til økonomisk kvantifiserbare effekter (prissatte virkninger)
+* Ta hensyn til ikke-kvantifiserbare effekter (ikke-prissatte virkninger)
+* I så stor grad som mulig/hensiktsmessig ta med all relevant nytte og alle relevante kostnader
+* Unngå dobbelttellinger
+* Ta hensyn til alternativ anvendelse
+* Ikke ta politiske hensyn
+* Inneholde en usikkerhetsanalyse
+* Beskrive fordelingsvirkninger
+* Gi en samlet vurdering
+
+
+
+# Tidligere rapport om ny kvaløyaforbindelse
+
+Fra rapporten:
+
+![Ny kvaløyaforbindelse](/img/kvaloya.png)
+
+
+## Prissatte konsekvenser:
+
+Fra rapporten:
+
+
+![Tabell prissatte konsekvenser](/img/kvaloya_tabell.png)
+
+
+## Ikke prissatte konsekvenser:
+
+
+![Tabell ikke prissatte konsekvenser](/img/kvaloya_ikke_prissatte.png)
+
+
+
+## Usikkerhetsanalyse
+
+Kvaløyaforbindelseutredningen inneholder ingen usikkerhetsanalyse I utredningen for Nord-Norgebanen ser den slik ut
+
+![Nordnorgebanen](/img/nnb_usikkerhet.png)
+
+P50, P15 og P85 er kostnadsanslag hvor sannsynligheten for at kostnadene blir lavere enn tallet er henholdsvis 50%, 15% og 85%. Det er en anlig måte å illustrere usikkerhet
+
+
+
+## Fordelingsvirkninger.
+
+* Bare noen av rapportene som er pensum i dette kurset, behandler fordelingsvirkninger. Det kan tyde på at det ikke alltid anses som relevant å ha i rapporter, selv om det står i veilederen.
+
+* I veilederen står det at «Formålet med denne arbeidsfasen er å beskrive hvordan virkningene av tiltakene fordeler seg mellom ulike grupper i samfunnet». Videre: «Beskrivelsen av fordelingsvirkningene tas med som en tilleggsanalyse og skal ikke inngå i grunnlaget for selve rangeringen og anbefalingen av tiltak»
+
+
+
+# Arbeidsfasene
+
+* Beskriv problemet og formuler mål
+* Identifiser og beskriv relevante tiltak
+* Identifiser og beskrive virkningene
+* Tallfest, vedsett og vurder virkninger
+* Vurder samfunnsøkonomisk lønnsomhet
+* Gjennomfør usikkerhetsanalyse
+* Beskrive fordelingsvirkninger
+* Gi en samlet vurdering og anbefal tiltak
+
+
+## Problembeskrivelse
+
+En har et problem når dagens situasjon eller utvikling oppfattes å være er en annen enn den som er ønsket. 
+I et samfunn finnes det problemer av mange slag uten at det dermed er en samfunnsoppgave å løse alle disse. 
+De problemene som samfunnet kan eller bør løse, kalles samfunnsproblemer.
+
+1. Beskriv det observerte problemet.
+2. Beskriv årsakene til problemet.
+3. Beskriv og tallfest de samfunnsmessige konsekvensene av problemet.
+
+
+## Hva er et tiltak?
+
+* pedagogiske virkemidler, for eksempel veiledning og informasjon
+* økonomiske virkemidler, for eksempel avgifter eller tilskudd
+* regulering, for eksempel påbud eller forbud
+* organisatoriske virkemidler, for eksempel sentralisering eller desentralisering
+* offentlige tilbud av produkter og tjenester, for eksempel infrastruktur og helsetjenester
+* offentlige anskaffelser, for eksempel IKT-tjenester og kontorutstyr
+
+
+## Stegvis prosess for komme frem til de relevante tiltakene
+
+* Definer mulighetsrommet.
+* Utforsk mulighetsrommet.
+* Grovsil tiltakene.
+* Beskriv tiltakene og vurder utformingen.
+
+
+## Analysér
+
+* Tallfest
+* Beregn nåverdi
+* Gjennomfør usikkerhethsanalyse 
+* Vurder ikke prissatte virkninger og fordeling
+
+
+
+# Forelesningene  
+
+* Mine forelesninger tar for seg hvordan man i praksis utarbeider en nytte-kostnadsanalyse, mens Tapas’ forelesninger fokuserer på teorien.  For å lære hvordan slike analyser faktisk skrives, skal vi de neste tre forelesningene gå gjennom utvalgte eksempler.  
+* Hvert forelesningstema starter med en kort introduksjon til dagens tema. Deretter får dere tid til å arbeide med virkelige samfunnsøkonomiske analyser i grupper på inntil tre personer.  
+* [Under pensum](https://uit-sok-2301-h25.github.io/index.html) finner dere en liste med analyser dere kan velge fra. Hver gruppe velger én rapport, og dere arbeider med den i omtrent en halvtime per forelesning. Til slutt har vi en felles oppsummering der vi deler funnene våre knyttet til dagens tema. Dersom vi ikke rekker å fullføre oppsummeringen, fortsetter vi i neste time.  
+* Det er en fordel om dere ser raskt gjennom *deres rapport* i forkant, med tanke på temaet for den aktuelle forelesningen.  
+

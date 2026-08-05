@@ -1,0 +1,70 @@
+.title {
+  font-size: 50px !important;
+  color: white !important;
+}
+.subtitle {
+  font-size: 30px !important;
+  color: white !important;
+}
+
+.quarto-title-author-name {
+  font-size: 40px;
+  color: white !important;
+}
+
+.date {
+  font-size: 20px;
+  color: white !important;
+}
+
+
+h1 {
+    font-size: 40px !important;
+  }
+
+.float-right {
+    float: right;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+
+.footer-table {
+  position: absolute;       /* Make the footer table fixed relative to the viewport */
+  top: 0;          /* Place the footer 10px from the bottom of the slide */
+  left: 0;
+  width: 100%;           /* Make the table span the width of the slide */
+  text-align: center;     /* Center-align the content */
+  background-color: rgb(245, 245, 245);
+  padding: 5px 0;        /* Add some padding to the table */
+
+}
+
+/* Make the footer table borderless and styled */
+.footer-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Styling for the footer cells */
+.footer-table td {
+  padding: 10px;
+  text-align: center;
+  border: none;
+}
+
+/* Inactive and active text styles specific to footer */
+.footer-table .inactive {
+  color: white;
+}
+
+.footer-table .active {
+  color: black;
+  font-weight: bold;
+}
+
+/* Footer-specific row background */
+.footer-table tr {
+  background-color: rgb(245, 245, 245);;
+}
+

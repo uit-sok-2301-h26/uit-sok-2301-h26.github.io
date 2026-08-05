@@ -1,0 +1,54 @@
+---
+title: "Prosjektoppgave"
+subtitle: SOK-2301 - Nytte-kostnadsanalyse i teori og praksis
+
+author: "Espen Sirnes"
+date: "2025-08-14"
+
+format:
+  html: default
+  pdf: default
+---
+# Analyser og evaluer ny Kvaløyaforbindelse
+* Prosjektet dere skal jobbe med er å lage en samfunnsøkonomisk utredning av ny Kvaløyaforbindelse
+* Dagens bro til Kvaløya er overbelastet, noe som fører til kø, forsinkelser og redusert fremkommelighet for både privatpersoner og næringsliv. 
+* Dette skaper utfordringer for transport, beredskap og utvikling på Kvaløya, og det er behov for tiltak som kan bedre trafikksituasjonen og sikre tilstrekkelig kapasitet for fremtidig vekst.
+
+![Kø Kvaløya](/img/que_kvaloya.jpg)
+
+# Nytte
+* En ny forbindelse vil, i tillegg til å økt fremkommelighet og bedre bedre beredskap, potensielt kunne bidra til rimelige tomter. 
+* Tromsø er en av de dyreste byene å bo i. 
+* En ny Kvaløyaforbindelse kan knytte nye områder og rimelige tomter på Kvaløya nær sentrum, og bidra til lavere boligpriser.
+
+
+# Informasjon som må innhentes
+* Hvor mye koster det å bygge tunnel?
+* Hva slags tunnel skal bygges
+* Hvilke traseer kan være aktuelle?
+* Samfunnsøkonomisk betydning av byutvikling (rimeligere tomter)
+* Hva vil det ha å si for 
+   * trafikksikkerhet
+   * kollektivtransport
+   * syklende og gående
+   * natur og miljø
+   * næringsutvikling/næringstrafikk
+
+
+# Innleveringene:
+
+## Obligatorisk innlevering 1 (Fase 1-3 ihht veilederen):
+
+* Gjør en vurdering av tiltaket ihht. DFØs veileder og identifiser hvilken informasjon som trengs og hvilke forutsetninger som må gjøres
+* Innhent informasjon
+* Sett opp en disposisjon/arbeidsplan (bruk veilederen)
+
+## Obligatorisk innlevering 2 (Fase 3-5):
+* Bruke det du har lært til å sette opp en nytte-kostnadsanalyse
+* Beregne nåverdi av prosjektet
+
+## Endelig innlevering (Fase 1-8):
+* Forbedre det som er gjort i tidligere innleveringer
+* Lever en endelig utredning av tiltaket.
+* Utredningen bør ha samme form som eksemplene i pensum.
+* Målet er en rapport som kunne vært presentert for Stortinget og Olje- og energidepartementet som grunnlag for en beslutning om elektrifisering.
