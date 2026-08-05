@@ -50,7 +50,7 @@ Kursplanen inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/o
 Der finner du oggså oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
 - [Kursplan](kursplan.html){:target="blank"}
-- [Timeplan](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=SOK-2301%2C1&type=course&sem=25h&campus=&hide_old=1){:target="blank"} på tp.educloud.no
+- [Timeplan](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=SOK-2301%2C1&type=course&sem=26h&campus=&hide_old=1){:target="blank"} på tp.educloud.no
 
 ## Faglærerinfo  
 
