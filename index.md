@@ -72,9 +72,9 @@ Boardman, Anthony E., Vining, Aidan R., Greenberg, David H., Weimer, David L.: "
 
 **I tillegg er disse veilederne og analysene pensum**
 
-*Veiledere:*
-[Prinsipper og krav ved utarbeidelse av samfunnsøkonomiske analyser](/articles/rundskriv_109_2021.pdf){:target="blank"}, Rundskriv R-106 fra Finansdepartementet, 2021      
-[Veileder i samfunnsøkonomiske analyser](https://dfo.no/veileder-i-samfunnsokonomiske-analyser/){:target="blank"}, Direktoratet for forvaltning og økonomistyring (DFØ), Juni 2023.          
+*Veiledere:* 
+[Veileder i samfunnsøkonomiske analyser](https://dfo.no/veileder-i-samfunnsokonomiske-analyser/){:target="blank"}, Direktoratet for forvaltning og økonomistyring (DFØ).          
+[Prinsipper og krav ved utarbeidelse av samfunnsøkonomiske analyser](/articles/rundskriv_109_2021.pdf){:target="blank"}, Rundskriv R-106 fra Finansdepartementet, 2021     
 
 
 *Analyser:*        
