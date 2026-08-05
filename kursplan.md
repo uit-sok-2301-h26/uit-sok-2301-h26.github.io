@@ -31,7 +31,7 @@ Pensum:
 |24. oktober |**Frist** AK 2  | Innlevering av andre arbeidskrav |  |Fredag 24. okt. 1600 |
 |2. november| | | ØS | |
 |10. november |**Presentasjon** | Presentasjon av prosjektoppgaven  | ES |[Påmeldingsskjema](https://forms.office.com/Pages/ResponsePage.aspx?id=LSF_Ttt0Y0Wle4rkTtBVJjhP3KMFoaZDp37xqZnsVYtUNE5KVUNRUUZZSDZUTEIyM1RDOExWMVVQRi4u) |
-|18. november |**Frist** PRO  | Innlevering av prosjektoppgave |  |Kl. 13.00 i Wiseflow |
+|18. november |**Frist** PRO  | Innlevering av prosjektoppgave | | Kl. 16.00  |
 |27. november |**Skoleeksamen** | Skriftlig skoleeksamen SOK-2301 (WISEFLOW) |  |09:00-13:00, KRAFT, Idrettsbane (036-1), KRAFT 2 |
 
 
