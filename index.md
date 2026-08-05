@@ -50,12 +50,12 @@ Kursplanen inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/o
 Der finner du oggså oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
 - [Kursplan](kursplan.html){:target="blank"}
-- [Timeplan](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=SOK-2301%2C1&type=course&sem=26h&campus=&hide_old=1){:target="blank"} på tp.educloud.no
+- [Timeplan](https://tp.educloud.no/uit/app/schedule?semester=26h&scheduleType=course&filterOpen=true&summary=true&pastWeeks=false&tab=calendar&course=SOK-2301%C2%A41){:target="blank"} på tp.educloud.no
 
 ## Faglærerinfo  
 
 - [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"} (fagansvarlig)
-- [Tapas Kundu](https://www.oslomet.no/om/ansatt/tapkun/){:target="blank"}
+- [Øivind Devik Schøyen](https://uit.no/ansatte/oivind.d.schoyen){:target="blank"}
 
 ## Administrative spørsmål
 
@@ -64,17 +64,20 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 ## Pensum  
 
-[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/nui/lists/13377414060002205){:target="blank"}  
+[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/public/47BIBSYS_UBTO/lists/14701184390002205?auth=SAML){:target="blank"}  
 
-*Hovedbok*: Boardman, Anthony E., Vining, Aidan R., Greenberg, David H., Weimer, David L.: "Cost-Benefit Analysis : Concepts and Practice." Prentice Hall (5th edition), ISBN: 9781108415996.        
+**I leganto finner du pensumboken:**
+Boardman, Anthony E., Vining, Aidan R., Greenberg, David H., Weimer, David L.: "Cost-Benefit Analysis : Concepts and Practice." Prentice Hall (5th edition), ISBN: 9781108415996.        
 
-*Norske veiledere*        
 
+**I tillegg er disse veilederne og analysene pensum**
+
+*Veiledere:*
 [Prinsipper og krav ved utarbeidelse av samfunnsøkonomiske analyser](/articles/rundskriv_109_2021.pdf){:target="blank"}, Rundskriv R-106 fra Finansdepartementet, 2021      
 [Veileder i samfunnsøkonomiske analyser](https://dfo.no/veileder-i-samfunnsokonomiske-analyser/){:target="blank"}, Direktoratet for forvaltning og økonomistyring (DFØ), Juni 2023.          
 
 
-*Analyser*        
+*Analyser:*        
 - [Elektrifisering av olje- og gassektoren – har det global klimaeffekt?](articles/thema-rapport-2022-23_elektrifisering.pdf){:target="blank"} Thema Consulting, 2022
 - [Ny kvaløyaforbindelse](articles/Kommunedelplan_KU_ny_tverrforbindelse_ny_kval%C3%B8yforbindelse.pdf){:target="blank"} Statens Vegvesen, 2015
 - [Nordlys vindpark](articles/Nordlys vindpark-ringvirkningsanalyse.pdf){:target="blank"} Ny Analyse, 2018
@@ -97,13 +100,14 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 
 ## Innlevering og eksamen  
 
-Kurset har mappeevaluering med følgende oppgaver (alle er obligatorisk):
-1. To obligatoriske oppgaver  (arbeidskrav som må være bestått)
-2. Presentasjon av prosjektoppgaven (arbeidskrav som må være bestått)
-3. Prosjektoppgave (karaktergivende eksamensopgave)
+Evaluering og karaktersetting fungerer slik:
+
+1. Du/dere skriver en caseoppgave i grupper på 1–3 personer.
+   Kurset har to obligatoriske innleveringer, som består av å levere hvert sitt delmål til oppgaven.
+   Det gis kort tilbakemelding på begge innleveringene.
+2. Du/dere presenterer oppgaven (obligatorisk). Her kan dere også få tips til forbedring.
+3. Kunnskapen dere har opparbeidet gjennom arbeidet med oppgaven, testes deretter på en skoleeksamen der ingen hjelpemidler er tillatt.
 
 
-
-Frister, oppgaver og ressurser finnes i [kursplan](kursplan.html){:target="blank"}.    
 
 
