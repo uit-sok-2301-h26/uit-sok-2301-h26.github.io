@@ -1,7 +1,7 @@
 {% include navbar.html %}{% include top-box.html %}
 # Kursplan  
 
-TK - Øivind Devik Schøyen    
+ØS - Øivind Devik Schøyen    
 ES - Espen Sirnes     
 F = Forelesning     
 AK = Arbeidskrav      
