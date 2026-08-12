@@ -25,7 +25,7 @@ Pensum:
 |21.sep|F6| Risiko, sensitivitetsanalyse og opsjonsverdi | ØS |  BGVW kap. 11; ØS-25: Sec. 5. |
 |25.sep|F7  |Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet | ES | [Veil Kap 3.4, 3.5](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 3](forelesninger/Forelesning 3.html) [pdf](forelesninger/Forelesning-3.pdf)|
 |05.okt|F8| Usikkerhet og virkninger uten markedspris | ES | [Veil Kap 4.1, 3.6, 4.4](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 4](forelesninger/Forelesning 4.html) [pdf](forelesninger/Forelesning-4.pdf) [jupyter](forelesninger/Forelesning 4.ipynb)|
-|09.okt|**Frist** AK 2  | Innlevering av andre arbeidskrav |  |Fredag 24. okt. 1600 |
+|09.okt|**Frist** AK 2  | Innlevering av andre arbeidskrav |  |Fredag 9. okt. 1600 |
 |12.okt|F9  | Sammenfatning av effekter/tips til oppgaven| ES |[ Veil Kap 3.7, 3.8](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) |
 |16.okt|Reserve|  |
 |19.okt|F10| Ekstern presentasjon? | ES |  |
