@@ -17,12 +17,12 @@ Pensum:
 | Dato | Sesjon | Tema | Lærer | Ressurser |
 |--------|----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
 |17.aug|F1   |Presentasjon av kurset. Hva er nytte-kostnadsanalyse? Presentasjon av case| ES/ØS       | [Veil Kap. 1, 2, 3.1, 3.2](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 1](forelesninger/Forelesning 1.html) [pdf](forelesninger/Forelesning-1.pdf) |
-|24.aug|F2  | Mikroøkonomisk fundament for nytte-kostnadsanalyse | ØS | BGVW kap. 2, 3; ØS-25: Sec. 1. [Lecture slide](forelesninger/TK1.pdf) |
-|31.aug|F3  | Verdsetting av effekter i innsatsmarkedet, sluttproduktmarkedet og sekundærmarkedet | ØS |  BGVW kap. 5, 6, 7; ØS-25: Sec. 2. [Lecture slide](forelesninger/TK2.pdf) |
+|24.aug|F2  | Mikroøkonomisk fundament for nytte-kostnadsanalyse | ØS | BGVW kap. 2, 3; ØS-25: Sec. 1.  |
+|31.aug|F3  | Verdsetting av effekter i innsatsmarkedet, sluttproduktmarkedet og sekundærmarkedet | ØS |  BGVW kap. 5, 6, 7; ØS-25: Sec. 2.  |
 |04.sep|F4| Identifisering av virkninger og ringvirkninger  | ES | [Veil Kap 3.3, 4.3 vedlegg 1.1](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 2](forelesninger/Forelesning 2.html) [pdf](forelesninger/Forelesning-2.pdf) |
-|07.sep|F5  | Verdsetting uten markedspris og Diskontering | ØS |  BGVW kap. 9, 10, 15; ØS-25: Sec. 3, 4. [Lecture slide](forelesninger/TK3.pdf)|
+|07.sep|F5  | Verdsetting uten markedspris og Diskontering | ØS |  BGVW kap. 9, 10, 15; ØS-25: Sec. 3, 4. |
 |11.sep|**Frist** AK 1  | Innlevering av første arbeidskrav |  |Fredag 11. sept. 1600  |
-|21.sep|F6| Risiko, sensitivitetsanalyse og opsjonsverdi | ØS |  BGVW kap. 11; ØS-25: Sec. 5. [Lecture slide](forelesninger/TK4.pdf)|
+|21.sep|F6| Risiko, sensitivitetsanalyse og opsjonsverdi | ØS |  BGVW kap. 11; ØS-25: Sec. 5. |
 |25.sep|F7  |Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet | ES | [Veil Kap 3.4, 3.5](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 3](forelesninger/Forelesning 3.html) [pdf](forelesninger/Forelesning-3.pdf)|
 |05.okt|F8| Usikkerhet og virkninger uten markedspris | ES | [Veil Kap 4.1, 3.6, 4.4](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 4](forelesninger/Forelesning 4.html) [pdf](forelesninger/Forelesning-4.pdf) [jupyter](forelesninger/Forelesning 4.ipynb)|
 |09.okt|**Frist** AK 2  | Innlevering av andre arbeidskrav |  |Fredag 24. okt. 1600 |
