@@ -11,9 +11,13 @@ format:
   ipynb: default
 ---
 
+# Nytte-kostnadsanalyse
+
+* Nytte-kostnadsanalyse er en utredning av offentlige prosjekter som skal hjelpe politikerne og offentlige institusjoner til å prioritere prosjekter. 
+
+* Utføres ofte også av private konsulenter, gjerne av interesseorganisasjoner og som ledd i lobbyvirksomhet.
 
 # Litt om kurset
-
 
 Alle innleveringer vil handle om ett case som dere skal jobbe med gjennom hele semesteret 
 
@@ -21,9 +25,18 @@ Alle innleveringer vil handle om ett case som dere skal jobbe med gjennom hele s
 * Presentasjoner (arbeidskrav) 
 * Prosjektoppgave (karaktergivende) 
 * Fra 1-3 i hver gruppe 
+* Eksamen: 
+  * Generelle spørsmål om nytte-kostnadsanalyse fra pensum
+  * Spørsmål knyttet til prosjektoppgaven du/dere har levert
 
 
 # Problemstillingen
+* I år skal dere få velge selv hvilket prosjekt dere vil analysere.
+* Her er noen forslag:
+  * Nord-Norgebanen
+  * Atomkraftverk ved ulike antakelser for oppnåelse av klimamål
+  * Tiltak for redusere narkotikabruk
+  * 
 * Prosjektet dere skal jobbe med er å lage en samfunnsøkonomisk utredning av ny Kvaløyaforbindelse
 * Dagens bro til Kvaløya er overbelastet, noe som fører til kø, forsinkelser og redusert fremkommelighet for både privatpersoner og næringsliv. 
 * Dette skaper utfordringer for transport, beredskap og utvikling på Kvaløya, og det er behov for tiltak som kan bedre trafikksituasjonen og sikre tilstrekkelig kapasitet for fremtidig vekst.
