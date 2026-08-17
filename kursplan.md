@@ -16,7 +16,7 @@ Pensum:
 
 | Dato | Sesjon | Tema | Lærer | Ressurser |
 |--------|----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
-|17.aug|F1   |Presentasjon av kurset. Hva er nytte-kostnadsanalyse? Presentasjon av case| ES/ØS       | [Veil Kap. 1, 2, 3.1, 3.2](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 1](forelesninger/Forelesning 1.html) [pdf](forelesninger/Forelesning-1.pdf) |
+|17.aug|F1   |Presentasjon av kurset. Hva er nytte-kostnadsanalyse? Presentasjon av case| ES/ØS       | [Veil Kap. 1, 2, 3.1, 3.2](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesning 1](forelesninger/Forelesning 1.pptx) [pdf](forelesninger/Forelesning 1.pdf) |
 |24.aug|F2  | Mikroøkonomisk fundament for nytte-kostnadsanalyse | ØS | BGVW kap. 2, 3; ØS-25: Sec. 1.  |
 |31.aug|F3  | Verdsetting av effekter i innsatsmarkedet, sluttproduktmarkedet og sekundærmarkedet | ØS |  BGVW kap. 5, 6, 7; ØS-25: Sec. 2.  |
 |04.sep|F4| Identifisering av virkninger og ringvirkninger  | ES | [Veil Kap 3.3, 4.3 vedlegg 1.1](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf) [Forelesningsnotat 2](forelesninger/Forelesning 2.html) [pdf](forelesninger/Forelesning-2.pdf) |
