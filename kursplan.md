@@ -23,10 +23,10 @@ Pensum:
 |07.sep|F5  | Verdsetting uten markedspris og Diskontering | ØS |  BGVW kap. 9, 10, 15; ØS-25: Sec. 3, 4. |
 |11.sep|**Frist** AK 1  | Innlevering av første arbeidskrav |  |Fredag 11. sept. 1600  |
 |21.sep|F6| Risiko, sensitivitetsanalyse og opsjonsverdi | ØS |  BGVW kap. 11; ØS-25: Sec. 5. |
-|25.sep|F7  |Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet | ES | Veil [Kap 3.4](https://www.dfo.no/kap-34-tallfeste-verdsette-og-vurdere-virkninger-fase-4) [, 3.5](https://www.dfo.no/kap-35-vurdere-samfunnsokonomisk-lonnsomhet-fase-5)  [Forelesningsnotat 3](forelesninger/Forelesning 3.html) [pdf](forelesninger/Forelesning-3.pdf)|
+|25.sep|F7  |Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet | ES | Veil [Kap 3.4, 3.5](https://www.dfo.no/kap-34-tallfeste-verdsette-og-vurdere-virkninger-fase-4)  [Forelesningsnotat 3](forelesninger/Forelesning 3.html) [pdf](forelesninger/Forelesning-3.pdf)|
 |05.okt|F8| Usikkerhet og virkninger uten markedspris | ES | Veil [Kap 4.1, 4.4](https://www.dfo.no/4-utvalgte-temaer-i-samfunnsokonomiske-analyser) [, 3.6](https://www.dfo.no/kap-36-gjennomfore-usikkerhetsanalyse-fase-6) [Forelesningsnotat 4](forelesninger/Forelesning 4.html) [pdf](forelesninger/Forelesning-4.pdf) [jupyter](forelesninger/Forelesning 4.ipynb)|
 |09.okt|**Frist** AK 2  | Innlevering av andre arbeidskrav |  |Fredag 9. okt. 1600 |
-|12.okt|F9  | Sammenfatning av effekter/tips til oppgaven| ES |[ Veil Kap 3.7, 3.8](https://www.dfo.no/3-hvordan-gjennomfore-en-samfunnsokonomisk-analyse-og-folge-opp-kravene-i-utredningsinstruksen) |
+|12.okt|F9  | Sammenfatning av effekter/tips til oppgaven| ES |[ Veil Kap 3.7, 3.8](https://www.dfo.no/kap-37-beskriv-fordelingsvirkninger-fase-7) |
 |16.okt|Reserve|  |
 |19.okt|F10| Ekstern presentasjon? | ES |  |
 |02.nov|Reserve| | |
