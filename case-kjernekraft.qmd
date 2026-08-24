@@ -1,0 +1,92 @@
+---
+title: "Årets case: Kjernekraft i Norge"
+subtitle: "Beslutningstre: planlegge nå vs. vente og se"
+author: "SOK-2301 – Nytte-kostnadsanalyse"
+date: today
+format:
+  html:
+    toc: true
+    number-sections: true
+  pdf:
+    toc: true
+    number-sections: true
+---
+
+## Bakgrunn
+
+Norge må ta stilling til om, og eventuelt når, det bør planlegges for kjernekraft. Regjeringens ekspertutvalg har nylig lagt fram sin utredning, [NOU 2026:4](https://www.regjeringen.no/no/dokumenter/nou-2026-4/id3155361/), som danner utgangspunktet for dette caset.
+
+Beslutningen har en klar realopsjons-struktur: å starte planlegging nå gir Norge et kraftverk tidligere i drift, men til en investeringskostnad og med en teknologimodenhet som ennå er usikker. Å vente gir mer informasjon før beslutningen tas, men utsetter en eventuell gevinst og innebærer at man går glipp av tidlig produksjon.
+
+## To måter verden kan utvikle seg
+
+Fram mot beslutningstidspunktet kan den globale teknologimodningen for kjernekraft utvikle seg i to retninger, som her kalles **scenario A** og **scenario B**:
+
+| | Scenario A – billig og enkelt | Scenario B – dyrt og komplisert |
+|---|---|---|
+| Design | Modne, standardiserte design (f.eks. SMR) | Fortsatt umodne leverandørkjeder |
+| Erfaring | Erfaring fra internasjonale prosjekter reduserer risiko | Kostnadsoverskridelser og forsinkelser (jf. Olkiluoto 3, Vogtle) |
+| Byggetid | Kort, forutsigbar byggetid | Lang, usikker byggetid |
+| Investeringskostnad | Nær lønnsomhetsterskelen | Langt over lønnsomhetsterskelen |
+
+## Beslutningstreet
+
+Norge har to hovedalternativer:
+
+**Alternativ 1 – start planlegging nå (2026).** Planlegging starter i 2026. I 2035 vet man om verden har utviklet seg mot scenario A eller B, og må da velge:
+
+- **A:** Bygg 2035–2045, i drift fra 2045.
+- **B:** Avslutt – ingen utbygging.
+
+**Alternativ 2 – vent til 2035, planlegg da.** Ingen aktivitet i perioden 2026–2035. Planlegging starter først i 2035. I 2045 vet man om verden har utviklet seg mot scenario A eller B, og må da velge:
+
+- **A:** Bygg 2045–2055, i drift fra 2055.
+- **B:** Avslutt – ingen utbygging.
+
+Begge alternativer har altså en innebygd fleksibilitet: beslutningen om faktisk utbygging tas først når man vet mer om hvilket scenario som har inntruffet. Forskjellen mellom alternativene er *når* denne informasjonen hentes inn, og dermed når kraftverket eventuelt kan stå ferdig.
+
+## Kritiske faktorer
+
+Rangeringen av de to alternativene (målt som netto nåverdi, NV) avhenger av fire forhold som studentene skal vurdere:
+
+1. **Er alternativene i realiteten identiske bortsett fra tidspunkt?** Hvis den underliggende stasjonære sannsynligheten for scenario A vs. B er lik uansett når man planlegger, dominerer alternativ 1 rent tidsmessig: NV(alternativ 1) > NV(alternativ 2) på grunn av diskontering alene.
+2. **Øker ventingen sannsynligheten for suksess?** Hvis det å vente til 2035 øker sannsynligheten for at teknologien har modnet til scenario A, kan dette snu rangeringen: NV(alternativ 1) < NV(alternativ 2).
+3. **Øker strømprisen mye over tid?** Hvis strømprisen vokser raskere enn diskonteringsrenten, kan NV(alternativ 1) < NV(alternativ 2). Hvis mesteparten av prisøkningen derimot skjer *før* 2055, kan NV(alternativ 1) > NV(alternativ 2).
+4. **Faller investeringskostnadene over tid?** Hvis investeringskostnadene forventes å falle fra 2045 til 2055, kan dette også gi NV(alternativ 1) < NV(alternativ 2).
+
+Disse fire faktorene skal danne grunnlaget for studentenes kvantitative og kvalitative vurdering av de to alternativene.
+
+## Informasjon som må innhentes
+
+For å kunne besvare caset må følgende hentes inn og begrunnes, med utgangspunkt i NOU 2026:4 og andre relevante kilder:
+
+- Investeringskostnad
+- Driftskostnad
+- Byggetid
+- Produksjon
+- Levetid
+- Fremtidig kraftpris
+- Infrastruktur
+
+## Oppgave
+
+Studentene skal levere en nytte-kostnadsanalyse av beslutningen om kjernekraft i Norge, strukturert som en vurdering av beslutningstreet over. Besvarelsen skal:
+
+1. **Hente inn og begrunne data** for de sju punktene i informasjonsoversikten over, med tydelig kildehenvisning (NOU 2026:4 og eventuelt supplerende kilder).
+2. **Sette opp beslutningstreet** med nåverdiberegninger for begge alternativer, under begge scenarioer (A og B), med eksplisitte forutsetninger om sannsynligheter og diskonteringsrente.
+3. **Drøfte de fire kritiske faktorene** eksplisitt, og vise hvordan hver av dem påvirker rangeringen mellom alternativ 1 og alternativ 2.
+4. **Gjennomføre en sensitivitetsanalyse** av konklusjonen med hensyn til sentrale forutsetninger (særlig sannsynlighet for scenario A/B, prisbane for strøm, og kostnadsutvikling).
+5. **Konkludere** med en anbefaling: bør Norge starte planlegging av kjernekraft nå, eller vente til 2035? Konklusjonen skal være eksplisitt forankret i tallene og drøftingen over, ikke bare i en kvalitativ vurdering.
+
+## Praktisk informasjon
+
+::: {.callout-note}
+Fyll inn følgende før utsending til studentene:
+
+- **Innleveringsfrist:** [DATO]
+- **Arbeidsform:** [individuelt / i grupper på N]
+- **Omfang:** [maks sideantall / ordantall]
+- **Format på besvarelsen:** [PDF / Word / annet]
+- **Vurderingskriterier / vekting:** [f.eks. datagrunnlag, modellering, drøfting av kritiske faktorer, sensitivitetsanalyse, konklusjon]
+- **Innleveringssted:** [Canvas / e-post / annet]
+:::
