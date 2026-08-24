@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Espen Sirnes">
-<meta name="dcterms.date" content="2025-08-14">
+<meta name="dcterms.date" content="2025-09-02">
 
-<title>2: Virkninger og ringvirkninger</title>
+<title>3: Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -31,17 +31,17 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="Forelesning 4_files/libs/clipboard/clipboard.min.js"></script>
-<script src="Forelesning 4_files/libs/quarto-html/quarto.js" type="module"></script>
-<script src="Forelesning 4_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="Forelesning 4_files/libs/quarto-html/popper.min.js"></script>
-<script src="Forelesning 4_files/libs/quarto-html/tippy.umd.min.js"></script>
-<script src="Forelesning 4_files/libs/quarto-html/anchor.min.js"></script>
-<link href="Forelesning 4_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="Forelesning 4_files/libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="Forelesning 4_files/libs/bootstrap/bootstrap.min.js"></script>
-<link href="Forelesning 4_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="Forelesning 4_files/libs/bootstrap/bootstrap-215b371544c282197b31c8aa00ce3677.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="Forelesning 7_files/libs/clipboard/clipboard.min.js"></script>
+<script src="Forelesning 7_files/libs/quarto-html/quarto.js" type="module"></script>
+<script src="Forelesning 7_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="Forelesning 7_files/libs/quarto-html/popper.min.js"></script>
+<script src="Forelesning 7_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="Forelesning 7_files/libs/quarto-html/anchor.min.js"></script>
+<link href="Forelesning 7_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="Forelesning 7_files/libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="Forelesning 7_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="Forelesning 7_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="Forelesning 7_files/libs/bootstrap/bootstrap-215b371544c282197b31c8aa00ce3677.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 
 
 </head>
@@ -50,13 +50,13 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
 <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="Forelesning-4.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li><li><a href="Forelesning 4.ipynb" download="Forelesning 4.ipynb"><i class="bi bi-journal-code"></i>Jupyter</a></li></ul></div></div>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="Forelesning-7.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li><li><a href="Forelesning 7.ipynb" download="Forelesning 7.ipynb"><i class="bi bi-journal-code"></i>Jupyter</a></li></ul></div></div>
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">2: Virkninger og ringvirkninger</h1>
-<p class="subtitle lead">SOK-2301 - Forelesning 2</p>
+<h1 class="title">3: Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet</h1>
+<p class="subtitle lead">SOK-2301 - Nytte-kostnadsanalyse i teori og praksis</p>
 </div>
 
 
@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">August 14, 2025</p>
+      <p class="date">September 2, 2025</p>
     </div>
   </div>
   
@@ -85,84 +85,175 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="hva-er-virkninger" class="level1">
-<h1>Hva er virkninger?</h1>
-<p>Det følger av Finansdepartementets rundskriv <a href="https://www.regjeringen.no/no/tema/okonomi-og-budsjett/statlig-okonomistyring/samfunnsokonomiske-analyser/id438830/">R-109/2021</a> at man i utredningen skal beskrive hvilke nytte- og kostnadsvirkninger de ulike tiltakene forventes å ha, hvem og hvilke områder som blir berørt, og hvordan disse blir berørt. Virkningene skal beskrives som <em>endringer sammenlignet med nullalternativet</em>. Virkninger som <em>ikke</em> skal telles med: * Virkninger som også ville ha oppstått uten tiltaket * Kostnader (eller nytte) som allerede har påløpt eller vedtatt, skal ikke inkluderes («sunk cost»)</p>
-<p>Nullalternativet er <em>uviklingen</em> av dagens situasjon, og ikke situasjonen akkurat nå. Endringer som må påregnes i fremtiden må derfor tas med i nullalternativet. Som hovedregel er det kun grupper i Norge som skal tas med.</p>
-</section>
-<section id="nyttevirkninger" class="level1">
-<h1>Nyttevirkninger</h1>
-<p>Nyttevirkninger er gir enkeltgrupper eller befolkningen økt velferd. Nytten bør helst kunne kvantifiseres. Eksempler på nyttevirkninger er</p>
+<section id="framgangsmåte-for-å-vurdere-virkninger" class="level1">
+<h1>Framgangsmåte for å vurdere virkninger</h1>
 <ul>
-<li>økt trygghet som følge av redusert kriminalitet</li>
-<li>økt tilfredshet hos brukerne når kvaliteten på tjenesten forbedres</li>
-<li>tidsbesparelser ved forenklet rapportering</li>
-<li>helsegevinster når helsehjelpen blir mer tilgjengelig</li>
-<li>miljøgevinster når forurensningen i et turområde reduseres</li>
-<li>økt personvern som følge av nytt regelverk</li>
-<li>kostnadsbesparelser som frigjør ressurser</li>
+<li>Alle positive og negative virkninger tallfestes så langt det lar seg gjøre</li>
+<li>Dersom betalingsvilligheten &gt; summen av kostnadene:
+<ul>
+<li>→ Samfunnsøkonomisk lønnsomt.</li>
+</ul></li>
+<li>Kostnadene ⇔ verdien av det en må gi opp av andre ting (alternativkostnad)</li>
+<li>Nytten ⇔ hvor mye en er villig til å betale (folks samlede betalingsvillighet)</li>
+<li>Flest mulig virkninger fastsettes i kroner</li>
 </ul>
 </section>
-<section id="kostnadsvirkninger" class="level1">
-<h1>Kostnadsvirkninger:</h1>
-<p>Kostnadsvirkninger, også kalt negative virkninger,43 er virkninger som reduserer velferden for én eller flere grupper i samfunnet eller for samfunnet samlet som følge av tiltaket, for eksempel</p>
-<ul>
-<li>tap av liv og helse ved økt risiko for ulykker</li>
-<li>miljøkostnader som følge av tapte naturområder</li>
-<li>redusert trygghetsfølelse ved mindre politi i gatene</li>
-<li>tapt tid i arbeid og opplevd stress når barnehagetilbudet reduseres</li>
-<li>Budsjettkostnad</li>
-</ul>
-</section>
-<section id="omfordeling" class="level1">
-<h1>Omfordeling</h1>
-<p>Omfordeling av ressurser mellom berørte grupper gir i utgangspunktet ingen reell effekt for samfunnet som helhet og vil derfor ikke påvirke den samfunnsøkonomiske lønnsomheten av et tiltak. Den nytten én gruppe oppnår av tiltaket, motsvares da av en like stor kostnad for en annen gruppe. Dette gjelder for eksempel merverdiavgift, som virksomhetene krever inn av kundene sine på vegne av staten.</p>
-<p>Dersom omfordelingen fører til endret adferd hos dem som mottar eller fratas midler, skal slike tilpasninger tas med som en samfunnsøkonomisk virkning. Det finnes en rekke overføringer som vil kunne lede til endret adferd, for eksempel avgifter, tilskudd eller subsidier. For eksempel kan reduserte avgifter lede til at flere bedrifter etablerer seg i et marked.</p>
-<p>Det er viktig å huske på at omfordelingen mellom ulike grupper kan innebære en endring i skattefinansieringskostnaden og dermed påvirke tiltakets samfunnsøkonomiske lønnsomhet. For eksempel vil økt barne- eller arbeidstrygd føre til økt skattefinansieringskostnad.</p>
-</section>
-<section id="dobbeltelling" class="level1">
-<h1>Dobbeltelling:</h1>
-<p>Tiltak vil ofte kunne tilsynelatende ha flere virkninger som egentlig er den samme. For eksempel:</p>
-<ul>
-<li>En miljøavgift sørger for redusert produksjon av en vare med negative eksterne effekter (for eksempel en forurensende bedrift). Det reduserte forbruket er ikke en ekstra virkning, men bare en kostnad som er flyttet fra negative miljøkonsekvenser for samfunnet til et “tilsynelatende dødvektstap”.</li>
-<li>En kanskje enda vanligere dobbeltelling er samme virkning med ulik benevnelse, for eksempel om en både teller opp at det er blitt flere fisk i elven på grunn av mindre forurensning og at fiskerene har fått økt overskudd.</li>
-</ul>
-<div id="6e7dd0a2" class="cell" data-execution_count="1">
-<div class="cell-output cell-output-stdout">
-<pre><code>Likevektsvolum uten eksterne effekter er 67.01254150645487
-Likevektsvolum med eksterne effekter er 50.0</code></pre>
-</div>
-<div class="cell-output cell-output-display">
+<section id="finn-effekt-kvanta-og-pris-for-å-tallfeste-virkningene" class="level1">
+<h1>Finn effekt, kvanta og pris, for å tallfeste virkningene</h1>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="Forelesning%204_files/figure-html/cell-2-output-2.png" width="957" height="651" class="figure-img"></p>
-<figcaption>Effekt av dobbeltelling</figcaption>
+<p><img src="img/samfokverdi.png" class="img-fluid figure-img"></p>
+<figcaption>Samfunnsøkonomisk verdi</figcaption>
 </figure>
 </div>
-</div>
-</div>
-<p>I figuren er en situasjon med eksterne virkninger tegnet opp. Vi ser at pareto-optimalt volum faller fra 67 til 50. Det blir dobbelttelling å ta med både gevinsten på etterspørselssiden og på tilbudssiden</p>
 </section>
-<section id="identifiser-og-beskriv-virkningene" class="level1">
-<h1>Identifiser og beskriv virkningene</h1>
-<p>For å identifisere de samfunnsøkonomiske virkningene for hvert av tiltakene som utredes, anbefales det å følge disse stegene:</p>
+<section id="kvantum" class="level1">
+<h1>Kvantum</h1>
+<ul>
+<li>Institusjoner</li>
+<li>Personer</li>
+<li>Bygg</li>
+<li>++ …</li>
+</ul>
+</section>
+<section id="metoder-for-å-finne-virkninger" class="level1">
+<h1>Metoder for å finne virkninger:</h1>
+<ul>
+<li>Estimere virkninger med empiriske data</li>
+<li>Randomiserte kontrollerte forsøk</li>
+<li>Naturlige eksperimenter</li>
+<li>Lab-eksperimenter</li>
+<li>Generell empirisk og teroretisk kunnskap</li>
+<li>Tidligere analyser</li>
+</ul>
+</section>
+<section id="enhetspris" class="level1">
+<h1>Enhetspris</h1>
+<ul>
+<li>Lønnsutgifter: Brutto reallønn inkl. arb.giveravg. og sosiale kostn.</li>
+<li>Fritid: Netto inntekt etter skatt</li>
+<li>Størst mulig grad markedspriser</li>
+<li>Vareinnsats: Pris eksl. toll + avgifter, inkl. avgift+kvotepris som er korreksjon</li>
+<li>Kvotekostnad uten CO-avgift brukes til kostnad ved klimagassutslipp</li>
+<li>Verdien på et statistisk liv - 55 mill.</li>
+<li><a href="https://www.vegvesen.no/fag/publikasjoner/hoeringer/23-50086-20-horing-revidert-veileder-v712-konsekvensanalyser/">Nyttig side fra statens vegesen</a></li>
+</ul>
+</section>
+<section id="beregn-samfunnsøknomisk-effekt" class="level1">
+<h1>Beregn samfunnsøknomisk effekt</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/samfokverdi.png" class="img-fluid figure-img"></p>
+<figcaption>Samfunnsøkonomisk verdi</figcaption>
+</figure>
+</div>
+</section>
+<section id="skattefinansieringskostnad" class="level1">
+<h1>Skattefinansieringskostnad</h1>
 <ol type="1">
-<li>Identifiser de berørte gruppene.</li>
-<li>Spesifiser egenskapene som driver virkningene for de berørte gruppene.</li>
-<li>Bruk årsaksforholdene til å finne de samfunnsøkonomiske virkningene.</li>
-<li>Ta en ekstra sjekk – er det noe som er fordelingsvirkninger eller telt dobbelt?</li>
+<li>Identifiser direkte netto virkningen på offentlige budsjetter</li>
+<li>Identifiser indirekte netto endring i beskatningsgrunnlaget og multipliser med 45%</li>
+<li>Skattefinansieringskostnaden er 20% av 1 og 2</li>
 </ol>
 </section>
-<section id="ringvirkninger" class="level1">
-<h1>Ringvirkninger</h1>
-<p>Dersom en ringvirkning skal ha en netto samfunnsøkonomisk verdi, må det finnes en markedssvikt i sekundærmarkedene som innebærer at det før tiltaket er et under- eller overforbruk av ressurser sammenlignet med det som er samfunnsøkonomisk optimalt. Veilederen kap. 4.3</p>
+<section id="ikke-prissatte-virkninger" class="level1">
+<h1>Ikke prissatte virkninger</h1>
 <ul>
-<li><p>Det finnes ikke tilstrekkelig empirisk grunnlag til å beregne netto ringvirkninger i samfunnsøkonomiske analyser. Slike virkninger skal derfor ikke inngå i selve analysen.</p></li>
-<li><p>Dersom det er grunnlag for å anta at tiltaket vil ha netto ringvirkninger, slik som virkninger på arbeidstilbud, areal eller konkurransesituasjonen ut over det som er fanget opp i den ordinære beregningen av nytte, kan informasjon om dette inngå i en &gt;tilleggsanalyse. Tilleggsanalysen kan inneholde både kvantitativ og kvalitativ informasjon som vil kunne være nyttig for beslutningstakerne.</p></li>
+<li>verdimatrisemetoden</li>
 </ul>
-<div style="text-align: right">
-<i>Krav i rundskriv R-109/2021, punkt 10.2 Tilleggsanalyser - Netto ringvirkninger</i>
-</div>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 31%">
+<col style="width: 22%">
+<col style="width: 22%">
+<col style="width: 22%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Kvantum / Enhetsverdi</th>
+<th>Liten</th>
+<th>Middels</th>
+<th>Høy</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Stort negativt</td>
+<td>Middels negativ</td>
+<td>Stor negativ</td>
+<td>Meget stor negativ</td>
+</tr>
+<tr class="even">
+<td>Middels negativt</td>
+<td>Liten negativ</td>
+<td>Middels negativ</td>
+<td>Stor negativ</td>
+</tr>
+<tr class="odd">
+<td>Lite negativt</td>
+<td>Ubetydelig/ingen</td>
+<td>Liten negativ</td>
+<td>Middels negativ</td>
+</tr>
+<tr class="even">
+<td>Verken positivt eller negativt</td>
+<td>Ubetydelig/ingen</td>
+<td>Ubetydelig/ingen</td>
+<td>Ubetydelig/ingen</td>
+</tr>
+<tr class="odd">
+<td>Lite positivt</td>
+<td>Ubetydelig/ingen</td>
+<td>Liten positiv</td>
+<td>Middels positiv</td>
+</tr>
+<tr class="even">
+<td>Middels positivt</td>
+<td>Liten positiv</td>
+<td>Middels positiv</td>
+<td>Stor positiv</td>
+</tr>
+<tr class="odd">
+<td>Stort positivt</td>
+<td>Middels positiv</td>
+<td>Stor positiv</td>
+<td>Meget stor positiv</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="vurder-forventningsverdier" class="level1">
+<h1>Vurder forventningsverdier</h1>
+<ul>
+<li><p>Summen av Sannsuynlighet * kostnad</p></li>
+<li><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/fordeling_anslag.png" class="img-fluid figure-img"></p>
+<figcaption>Samfunnsøkonomisk verdi</figcaption>
+</figure>
+</div></li>
+</ul>
+</section>
+<section id="vurdere-samfunnsøkonomisk-lønnsomhet" class="level1">
+<h1>Vurdere samfunnsøkonomisk lønnsomhet</h1>
+<ol type="1">
+<li>Bruk nåverdimetoden for prissatte virkninger → ranger tiltakene</li>
+<li>Bruk verdimatrisemetoden til å sammenstille ikke-prissatte virkninger</li>
+<li>Ranger tiltakene basert på prissatte og ikke-prissatte virkninger</li>
+</ol>
+<p>Beregn netto nåverdi</p>
+</section>
+<section id="oppgave" class="level1">
+<h1>Oppgave</h1>
+<ol type="1">
+<li>Hvordan er tiltakene rangert ihht. netto nåverdi?
+<ul>
+<li>finn netto nåverdi for tiltakene som er vurdert</li>
+<li>er det bare ett, hvordan er det rangert ift. 0-alternativet</li>
+</ul></li>
+<li>Hvordan er ikke-prissatte virkninger vurdert?</li>
+<li>Påvirker ikke-prissatte virkninger rapportens anbefaling?</li>
+</ol>
 </section>
 
 </main>

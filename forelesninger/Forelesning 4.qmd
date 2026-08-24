@@ -1,237 +1,166 @@
 ---
-title: "4: Virkninger uten markedspris og usikkerhet"
-subtitle: SOK-2301 - Nytte-kostnadsanalyse i teori og praksis
-
+title: "2: Virkninger og ringvirkninger "
+subtitle: SOK-2301 - Forelesning 2
+author: "Espen Sirnes"
+date: "2025-08-14"
 
 ---
 
-# Oversikt over ulike verdsettingsmetoder for prissetting:
+# Hva er virkninger?
 
-|   | Tilnærming | Type verdi | Vanligste verdsettingsmetoder |
-|-----------------|-----------------|-----------------|--------------------|
-| Faktisk marked | Markedsbasert | Bruksverdi | Markedspriser, kostnader ved avbøtende tiltak, kostnader ved å erstatte tapte miljøgoder |
-| Parallelle markeder | Avslørte preferanser | Bruksverdi | Hedonisk prising (eiendomspriser, lønninger), reisekostnadsmetoden |
-| Hypotetiske markeder | Uttrykte preferanser | Bruksverdi og ikke-bruksverdi | Betinget verdsetting, valgeksperimenter |
 
-# Markedsbasert
+Det følger av Finansdepartementets rundskriv [R-109/2021]( https://www.regjeringen.no/no/tema/okonomi-og-budsjett/statlig-okonomistyring/samfunnsokonomiske-analyser/id438830/) at man i utredningen skal beskrive hvilke nytte- og kostnadsvirkninger de ulike tiltakene forventes å ha, hvem og hvilke områder som blir berørt, og hvordan disse blir berørt. Virkningene skal beskrives som *endringer sammenlignet med nullalternativet*. 
+Virkninger som *ikke* skal telles med:
+* Virkninger som også ville ha oppstått uten tiltaket
+* Kostnader (eller nytte) som allerede har påløpt eller vedtatt, skal ikke inkluderes («sunk cost»)
 
--   Den foretrukkene metoden
--   Markedspriser er ofte ikke tilgjengelig
+Nullalternativet er *uviklingen* av dagens situasjon, og ikke situasjonen akkurat nå. Endringer som må påregnes i fremtiden må derfor tas med i nullalternativet.
+Som hovedregel er det kun grupper i Norge som skal tas med.
 
-# Metoder basert på avslørte preferanser
 
--   Forholdsvis pålitelig
--   Begrenset bruksområde
--   Mest egnet til bruksverdi
--   Bør suppleres med uttryket preferanser
+# Nyttevirkninger
 
-# Metode for uttrykte preferanser
+Nyttevirkninger er gir enkeltgrupper eller befolkningen økt velferd. Nytten bør helst kunne kvantifiseres. Eksempler på nyttevirkninger er
 
--   Kan anvendes på alle typer goder
--   Folk vil ofte ikke oppgi korrekte svar på hypotetiske valg
+* økt trygghet som følge av redusert kriminalitet
+* økt tilfredshet hos brukerne når kvaliteten på tjenesten forbedres
+* tidsbesparelser ved forenklet rapportering
+* helsegevinster når helsehjelpen blir mer tilgjengelig
+* miljøgevinster når forurensningen i et turområde reduseres
+* økt personvern som følge av nytt regelverk
+* kostnadsbesparelser som frigjør ressurser
 
-# Bruk av fageksperter for å verdsette virkninger
 
--   Bedre til å vurdere sannsynligheter
--   Samme metoder for å avdekke preferanser kan brukes på eksperter
--   Ekspertvurdering vil ikke alltid samsvare med publikums egne preferanser
--   Brukes til å lage scenarioer for betinget verdsetting og valgeksperimenter
 
-# Miljøvirkninger
+# Kostnadsvirkninger:
 
-![Miljøverdi](img/miljovordering.png)
+Kostnadsvirkninger, også kalt negative virkninger,43 er virkninger som reduserer velferden for én eller flere grupper i samfunnet eller for samfunnet samlet som følge av tiltaket, for eksempel
 
--   Miljøverdi kan være vanskelig å verdsette, spesielt ikke-bruksverdi
--   Respondenter har ikke erfaring med å velge tilgangen eller kvalitet
--   Verdioverføringer fra tidligere gjennomførte studier
-    -   forutsetter høy kvalitet på underliggende verdsettingsstudier
+* tap av liv og helse ved økt risiko for ulykker
+* miljøkostnader som følge av tapte naturområder
+* redusert trygghetsfølelse ved mindre politi i gatene
+* tapt tid i arbeid og opplevd stress når barnehagetilbudet reduseres
+* Budsjettkostnad
 
-# Kostnadsbasert verdsettelse
 
--   Beregne hva det vil koste å unngå eller avbøte tapet av et miljøgode
--   F.eks. støyisolering
+# Omfordeling
 
-# Vurdering av usikkerhet kan grovt sett bestå av disse fire stegene:
+Omfordeling av ressurser mellom berørte grupper gir i utgangspunktet ingen reell effekt for samfunnet som helhet og vil derfor ikke påvirke den samfunnsøkonomiske lønnsomheten av et tiltak. Den nytten én gruppe oppnår av tiltaket, motsvares da av en like stor kostnad for en annen gruppe. Dette gjelder for eksempel merverdiavgift, som virksomhetene krever inn av kundene sine på vegne av staten. 
 
--   kartlegg usikkerhetsfaktorene
--   klassifiser usikkerhetsfaktorene
--   gjennomfør usikkerhetsanalyse
--   vurder risikoreduserende tiltak
+Dersom omfordelingen fører til endret adferd hos dem som mottar eller fratas midler, skal slike tilpasninger tas med som en samfunnsøkonomisk virkning. Det finnes en rekke overføringer som vil kunne lede til endret adferd, for eksempel avgifter, tilskudd eller subsidier. For eksempel kan reduserte avgifter lede til at flere bedrifter etablerer seg i et marked.
 
-# Husk at usikkerhet allerede kan ha blitt tatt høyde for
+Det er viktig å huske på at omfordelingen mellom ulike grupper kan innebære en endring i skattefinansieringskostnaden og dermed påvirke tiltakets samfunnsøkonomiske lønnsomhet. For eksempel vil økt barne- eller arbeidstrygd føre til økt skattefinansieringskostnad.
 
--   Tiltak med høy risiko eller umoden teknologi kan ha blitt forkastet når relevante tiltak ble valg ut i arbeidsfase 2
--   Forventningsverdien tar hensyn til ulike sannsynligheter for ulike utfall
--   Kalkulasjonsrenten tar hensyn til risiko
 
-## Ulike typer av usikkerhet
 
--   **Tiltaks- og prosjektinterne forhold**:
-    -   Usikkerhet knyttet til gjennomføringen og prosjektering.
--   **Hendelsesusikkerhet**:
-    -   Uforutsette hendelser for dette prosjektet ("usystematisk risiko")
--   **Generell usikkerhet**:
-    -   Generell risiko ("markedsrisiko")
+# Dobbeltelling:
 
-## Ulike typer usikkerhetsanalyse
+Tiltak vil ofte kunne tilsynelatende ha flere virkninger som egentlig er den samme. For eksempel:
 
--   Følsomhetsanalyser
-
-|   | Pessimistisk verdi (P15) | Forventet verdi (P50)| Optimistisk verdi (P85)|
-|-------------------|------------------|------------------|------------------|
-| Forventet investeringskostnad (mill. kr) | 300 | 125 | 50 |
-| Netto nåverdi (mill. kr) | -47 | 128 | 203 |
-
-# Mer avanserte usikkerhetsanalyser
-
--   scenarioanalyser
-    -   Utvidelse av følsomhetsanalyse
-    -   Flere parameter endres samtidig
--   simuleringer
-    -   Monte Carlo
-
-# Monte Carlo
+* En miljøavgift sørger for redusert produksjon av en vare med negative eksterne effekter (for eksempel en forurensende bedrift). Det reduserte forbruket er ikke en ekstra virkning, men bare en kostnad som er flyttet fra negative miljøkonsekvenser for samfunnet til et "tilsynelatende dødvektstap". 
+* En kanskje enda vanligere dobbeltelling er samme virkning med ulik benevnelse, for eksempel om en både teller opp at det er blitt flere fisk i elven på grunn av mindre forurensning og at fiskerene har fått økt overskudd.
+  
 
 ```{python}
+#| echo: false
+#| fig-cap: "Effekt av dobbeltelling"
+#| 
+#drawing 100 points in the interval 0.0 to 100
+from matplotlib import pyplot as plt
 import numpy as np
-import matplotlib.pyplot as plt
+from sympy.solvers import solve
+import sympy as sp
 
-# Function to calculate NPV
-def net_present_value(inv, traveltime, persons, value_per_hour,
-                      reduced_accident, maintenance, lifetime, discount_rate):
+EXTERNAL_EFFECT = 10
+
+def supply(x):
+    return (x**2)*(1/250)
     
-    # Calculate annual time savings benefit
-    time_saving = traveltime * persons * 365 * value_per_hour
-    
-    # Total annual benefits
-    annual_benefits = time_saving + reduced_accident 
-    
-    # Net benefits each year (benefits - maintenance costs)
-    net_benefits_per_year = annual_benefits - maintenance
-    
-    # Calculate NPV of the benefits over the bridge's lifetime
-    npv_benefits = sum(net_benefits_per_year / (1 + discount_rate) ** year for year in range(1, lifetime + 1))
-    
-    # Calculate total NPV (subtracting the initial investment)
-    total_npv = npv_benefits - inv
-    
-    return total_npv
+def demand(x):
+    return 3000/(100+x)
 
-# Define the number of simulations
-num_simulations = 10000
+q = np.linspace(1,100,100)
 
-# Random value ranges for each parameter
-inv_values = np.random.uniform(30e6, 70e6, num_simulations)  # Investment cost in NOK (30M to 70M)
-traveltime_values = np.random.uniform(0.2, 1.0, num_simulations)  # Travel time saved per person (hours)
-persons_values = np.random.uniform(5000, 15000, num_simulations)  # Number of people using the bridge daily
-value_per_hour_values = np.random.uniform(50, 150, num_simulations)  # Value of time saved (NOK per hour)
-reduced_accident_values = np.random.uniform(100000, 1000000, num_simulations)  # Accident reduction savings per year (NOK)
-maintenance_values = np.random.uniform(200000, 500000, num_simulations)  # Maintenance cost per year (NOK)
+#creating the plot
+q = np.linspace(0,100,100)
+fig,ax=plt.subplots(figsize=(12, 8))
 
-# Fixed parameters
-lifetime_years = 30  # Lifetime of the bridge in years
-discount_rate = 0.03  # 3% discount rate
+ax.set_ylabel('Pris')
+ax.set_xlabel('Enheter')
 
-# Run simulations
-npv_results = []
-for i in range(num_simulations):
-    npv = net_present_value(inv=inv_values[i], 
-                            traveltime=traveltime_values[i], 
-                            persons=persons_values[i], 
-                            value_per_hour=value_per_hour_values[i], 
-                            reduced_accident=reduced_accident_values[i], 
-                            maintenance=maintenance_values[i], 
-                            lifetime=lifetime_years, 
-                            discount_rate=discount_rate)
-    npv_results.append(npv)
 
-# Plotting the distribution of NPV outcomes
-plt.figure(figsize=(10,6))
-plt.hist(npv_results, bins=50, edgecolor='black', alpha=0.7)
-plt.title('Distribution of Net Present Value (NPV) Outcomes')
-plt.xlabel('Net Present Value (NOK)')
-plt.ylabel('Frequency')
-plt.grid(True)
-plt.show()
+#drawing supply
+ax.plot(q,supply(q),label='Tilbud')
 
+#drawing demand
+ax.plot(q,demand(q),color='green',label='Etterspørsel')
+
+#drawing supply after external effects
+ax.plot(q,supply(q)+EXTERNAL_EFFECT,label='Tilbud etter eksterne virkninger', color='lightgrey')
+
+#drawing demand after external effects
+ax.plot(q,demand(q)-EXTERNAL_EFFECT,label='Etterspørsel etter eksterne virkninger', color='lightgrey')
+
+#adding legend:
+ax.legend(loc='upper center',frameon=False)
+
+#Solving for equilibrium
+def equlibrium(demand, supply, effect):
+    x=sp.symbols('x')
+    eq_cond=sp.Eq(demand(x),supply(x)+effect)
+    x_eq=solve(eq_cond,x)
+    p_eq=demand(x_eq[0])
+    return float(x_eq[0]), float(p_eq)
+
+x_eq, p_eq = equlibrium(demand, supply, 0)
+x_eq_ext, p_eq_ext = equlibrium(demand, supply, EXTERNAL_EFFECT)
+
+# Add vertical grey line at x_eq
+ax.axvline(x=x_eq, color='grey')
+ax.axvline(x=x_eq_ext, color='lightgrey')
+
+#fills 
+q = np.linspace(1,x_eq,100)
+ax.fill_between(q,demand(q),supply(q), color = "pink",alpha = 0.3,label='Konsumentoverskudd uten eksterne effekter')
+
+q = np.linspace(1,x_eq_ext,100)
+ax.fill_between(q,demand(q),supply(q)+EXTERNAL_EFFECT, color = "pink",alpha = 0.3,label='Konsumentoverskudd med eksterne effekter')
+
+
+q = np.linspace(x_eq_ext,x_eq,100)
+ax.fill_between(q,demand(q),supply(q)+EXTERNAL_EFFECT, color = "blue",alpha = 0.2,label='Gevinst på redusert tilbud')
+
+q = np.linspace(x_eq_ext,x_eq,100)
+ax.fill_between(q,demand(q)-EXTERNAL_EFFECT,supply(q), color = "yellow",alpha = 0.2,label='gevinst på redusert etterspørsel')
+
+ax.legend(loc='upper center',frameon=False)
+
+print(f"Likevektsvolum uten eksterne effekter er {x_eq}")
+print(f"Likevektsvolum med eksterne effekter er {x_eq_ext}")
 
 ```
 
-# Risikoreduserende tiltak
+I figuren er en situasjon med eksterne virkninger tegnet opp. Vi ser at pareto-optimalt volum faller fra 67 til 50. Det blir dobbelttelling å ta med både gevinsten på etterspørselssiden og på tilbudssiden
 
--   forebygge avvik fra forventningsverdien
--   planlegge for å begrense konsekvensene av avvik eller uheldige hendelser
 
-# Realopsjoner
+# Identifiser og beskriv virkningene
 
--   Det er betydelige (irreversible) kostnader forbundet med å komme tilbake til utgangspunktet
--   Det er sannsynlig at man senere får ny informasjon som gir god støtte i beslutningsprosessen.
--   Det er handlingsrom når man på et senere tidspunkt skal ta en ny beslutning om tiltak.
+For å identifisere de samfunnsøkonomiske virkningene for hvert av tiltakene som utredes, anbefales det å følge disse stegene: 
 
-# Forskjellige typer realopsjoner
+1. Identifiser de berørte gruppene. 
+2. Spesifiser egenskapene som driver virkningene for de berørte gruppene.
+3. Bruk årsaksforholdene til å finne de samfunnsøkonomiske virkningene.
+4. Ta en ekstra sjekk – er det noe som er fordelingsvirkninger eller telt dobbelt?
 
--   Utsatt beslutning
--   Trinnvis utbygging
--   Innbygd fleksibilitet
--   Avslutning av tiltak
 
-# Fordelingsvirkninger
+# Ringvirkninger
 
--   Skal ikke foretas fordelingsvekting i selve nåverdianalysen
-    -   Tas med i tilleggsanalyse
--   Der det er relevant skal det gis tilleggsinformasjon om fordelingsvirkninger
--   Økt sysselsetting i én region på bekostning av færre sysselsatte i en annen, er en fordelingsvirkning - ikke en ringvirkning
--   Nyttig for beslutningstaker
--   Fordeling kan av og til være hovedformålet med tiltaket
-    -   En kan da for eksempel sammenligne NV til ulike alternative måter å oppnå en bestemt fordeling
--   Vurder om det finnes kompenserende alternativer
+Dersom en ringvirkning skal ha en netto samfunnsøkonomisk verdi, må det finnes en markedssvikt i sekundærmarkedene som innebærer at det før tiltaket er et under- eller overforbruk av ressurser sammenlignet med det som er samfunnsøkonomisk optimalt.
+Veilederen kap. 4.3
 
-# Hvilke fordelingsvirkninger er relevante?
 
--   geografiske regioner i Norge
--   offentlige virksomheter
--   privat næringsliv
--   privatpersoner
--   brukere og ikke-brukere av et offentlig tiltak
+* Det finnes ikke tilstrekkelig empirisk grunnlag til å beregne netto ringvirkninger i samfunnsøkonomiske analyser. Slike virkninger skal derfor ikke inngå i selve analysen.
 
-# Hvilke fordelingsvirkninger er relevante?
+* Dersom det er grunnlag for å anta at tiltaket vil ha netto ringvirkninger, slik som virkninger på arbeidstilbud, areal eller konkurransesituasjonen ut over det som er fanget opp i den ordinære beregningen av nytte, kan informasjon om dette inngå i en >tilleggsanalyse. Tilleggsanalysen kan inneholde både kvantitativ og kvalitativ informasjon som vil kunne være nyttig for beslutningstakerne.
 
--   sosioøkonomiske grupper, inndelt etter for eksempel
-    -   inntektsnivå
-    -   sivil status
-    -   alder
-    -   barnefamilier
-    -   funksjonsevne
-    -   sykdomsgruppe
--   yrkesgrupper
--   forskjellige generasjoner
--   kjønn
-
-# Eksempel på fordelingsanalyse:
-
--   Tiltak forventes å gi et samfunnsøkonomisk overskudd på 250 mill.
--   Deler inn i fem inntektsgrupper.
-
-| Kvintil (inntekt)             | Beregnet overskudd ved tiltaket |
-|-------------------------------|---------------------------------|
-| 1\. kvintil (lavest)          | –45 000 000                     |
-| 2\. kvintil                   | –60 000 000                     |
-| 3\. kvintil                   | 20 000 000                      |
-| 4\. kvintil                   | 150 000 000                     |
-| 5\. kvintil (høyest)          | 185 000 000                     |
-| **Summert over alle grupper** | **250 000 000**                 |
-
-# Gegografisk fordeling
-
-![Kart](img/tromso.png)
-
-[Lenke til notebooks](https://espensirnes.github.io/notebooks/html/11%20-%20interaktive%20websider.html)
-
-# Oppgave:
-
-Se på rapporten du har
-
-1)  Finn ett eksempel på verdivurderinger i rapporten der det ikke finnes noe faktisk marked
-    -   Om du ikke finner noen, finnes det verdier rapporten ikke tar med, som den potensielt kunne anslått?
-2)  Hvilken metode har forfatterne brukt på å finne verdien?
-3)  Hvordan er usikkerhet tatt hensyn til?
+<div style="text-align: right"> <i>Krav i rundskriv R-109/2021, punkt 10.2 Tilleggsanalyser - Netto ringvirkninger</i></div>

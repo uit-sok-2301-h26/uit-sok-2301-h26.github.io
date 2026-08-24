@@ -17,14 +17,14 @@ Pensum:
 | Dato | Sesjon | Tema | Lærer | Ressurser |
 |--------|----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
 |17.aug|F1   |Presentasjon av kurset. Hva er nytte-kostnadsanalyse? Presentasjon av case| ES/ØS       | Veil. [Kap. 1](https://www.dfo.no/1-en-innforing-i-hvordan-statlige-tiltak-skal-utredes), [, 2](https://www.dfo.no/2-samfunnsokonomiske-analyser-som-grunnlag-gode-beslutninger), [, 3.1, 3.2](https://www.dfo.no/3-hvordan-gjennomfore-en-samfunnsokonomisk-analyse-og-folge-opp-kravene-i-utredningsinstruksen)  [Forelesning 1](forelesninger/Forelesning 1.pptx) [pdf](forelesninger/Forelesning 1.pdf) |
-|24.aug|F2  | Mikroøkonomisk fundament for nytte-kostnadsanalyse | ØS | BGVW kap. 2, 3; ØS-25: Sec. 1. [Forelesning 2](forelesninger/Forelesning 2.pdf) |
-|31.aug|F3  | Verdsetting av effekter i innsatsmarkedet, sluttproduktmarkedet og sekundærmarkedet | ØS |  BGVW kap. 5, 6, 7; ØS-25: Sec. 2.  |
-|04.sep|F4| Identifisering av virkninger  | ES | Veil [Kap 3.3](https://www.dfo.no/kap-33-identifisere-virkninger-fase-3)[, 4.3](https://www.dfo.no/4-utvalgte-temaer-i-samfunnsokonomiske-analyser)[, vedlegg 1.1](https://www.dfo.no/vedlegg-3) [Forelesningsnotat 2](forelesninger/Forelesning 2.html) [pdf](forelesninger/Forelesning-2.pdf) |
-|07.sep|F5  | Verdsetting uten markedspris og Diskontering | ØS |  BGVW kap. 9, 10, 15; ØS-25: Sec. 3, 4. |
+|24.aug|F2  | Mikroøkonomisk fundament for nytte-kostnadsanalyse | ØS | BGVW kap. 2, 3 [Forelesning 2](forelesninger/Forelesning 2.pdf) |
+|31.aug|F3  | Verdsetting av effekter i innsatsmarkedet, sluttproduktmarkedet og sekundærmarkedet | ØS |  BGVW kap. 5, 6, 7 |
+|04.sep|F4| Identifisering av virkninger  | ES | Veil [Kap 3.3](https://www.dfo.no/kap-33-identifisere-virkninger-fase-3)[, 4.3](https://www.dfo.no/4-utvalgte-temaer-i-samfunnsokonomiske-analyser)[, vedlegg 1.1](https://www.dfo.no/vedlegg-3) [Forelesning 4](forelesninger/Forelesning 4.html) [pdf](forelesninger/Forelesning-4.pdf) |
+|07.sep|F5  | Verdsetting uten markedspris og Diskontering | ØS |  BGVW kap. 9, 10, 15|
 |11.sep|**Frist** AK 1  | Innlevering av første arbeidskrav |  |Fredag 11. sept. 1600  |
-|21.sep|F6| Risiko, sensitivitetsanalyse og opsjonsverdi | ØS |  BGVW kap. 11; ØS-25: Sec. 5. |
-|25.sep|F7  |Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet | ES | Veil [Kap 3.4, 3.5](https://www.dfo.no/kap-34-tallfeste-verdsette-og-vurdere-virkninger-fase-4)  [Forelesningsnotat 3](forelesninger/Forelesning 3.html) [pdf](forelesninger/Forelesning-3.pdf)|
-|05.okt|F8| Usikkerhet og virkninger uten markedspris | ES | Veil [Kap 4.1, 4.4](https://www.dfo.no/4-utvalgte-temaer-i-samfunnsokonomiske-analyser) [, 3.6](https://www.dfo.no/kap-36-gjennomfore-usikkerhetsanalyse-fase-6) [Forelesningsnotat 4](forelesninger/Forelesning 4.html) [pdf](forelesninger/Forelesning-4.pdf) [jupyter](forelesninger/Forelesning 4.ipynb)|
+|21.sep|F6| Risiko, sensitivitetsanalyse og opsjonsverdi | ØS |  BGVW kap. 11|
+|25.sep|F7  |Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet | ES | Veil [Kap 3.4, 3.5](https://www.dfo.no/kap-34-tallfeste-verdsette-og-vurdere-virkninger-fase-4)  [Forelesning 7](forelesninger/Forelesning 7.html) [pdf](forelesninger/Forelesning-7.pdf)|
+|05.okt|F8| Usikkerhet og virkninger uten markedspris | ES | Veil [Kap 4.1, 4.4](https://www.dfo.no/4-utvalgte-temaer-i-samfunnsokonomiske-analyser) [, 3.6](https://www.dfo.no/kap-36-gjennomfore-usikkerhetsanalyse-fase-6) [Forelesningsnotat 8](forelesninger/Forelesning 8.html) [pdf](forelesninger/Forelesning-8.pdf) [jupyter](forelesninger/Forelesning 8.ipynb)|
 |09.okt|**Frist** AK 2  | Innlevering av andre arbeidskrav |  |Fredag 9. okt. 1600 |
 |12.okt|F9  | Sammenfatning av effekter/tips til oppgaven| ES |[ Veil Kap 3.7, 3.8](https://www.dfo.no/kap-37-beskriv-fordelingsvirkninger-fase-7) |
 |16.okt|Reserve|  |

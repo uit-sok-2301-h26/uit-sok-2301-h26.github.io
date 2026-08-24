@@ -1,11 +1,11 @@
 project:
   type: default
   render:
-    - Forelesning 1.qmd
-    - Forelesning 2.qmd
-    - Forelesning 3.qmd
+
     - Forelesning 4.qmd
-    - prosjekt.qmd
+    - Forelesning 7.qmd
+    - Forelesning 8.qmd
+  
 
 
 format:
