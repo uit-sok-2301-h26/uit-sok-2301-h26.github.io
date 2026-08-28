@@ -5,12 +5,20 @@ author: "SOK-2301 – Nytte-kostnadsanalyse"
 date: today
 format:
   html:
-    toc: true
+    toc: false
     number-sections: true
   pdf:
-    toc: true
+    toc: false
     number-sections: true
 ---
+## Oppgavetekst
+Lag en samfunnsøkonomisk nytte-kostnadsanalyse om bygging av kjernekraft i Norge. 
+
+Analysen skal vurdere følgende alternativer:
+  - Starte planleggingen nå og ta endelig beslutning i 2035
+  - Utsette planleggingen til senere (for eksempel 2035) og ta endelig beslutning i 2055
+
+Årstallene for endelig beslutning og planlegging er veiledende, og kan endres etter behov.
 
 ## Bakgrunn
 
@@ -30,24 +38,9 @@ Fram mot beslutningstidspunktet kan den globale teknologimodningen for kjernekra
 | Investeringskostnad | Nær lønnsomhetsterskelen | Langt over lønnsomhetsterskelen |
 
 ## Beslutningstreet
-
-Norge har to hovedalternativer:
-
-**Alternativ 1 – start planlegging nå (2026).** Planlegging starter i 2026. I 2035 vet man om verden har utviklet seg mot scenario A eller B, og må da velge:
-
-- **A:** Bygg 2035–2045, i drift fra 2045.
-- **B:** Avslutt – ingen utbygging.
-
-**Alternativ 2 – vent til 2035, planlegg da.** Ingen aktivitet i perioden 2026–2035. Planlegging starter først i 2035. I 2045 vet man om verden har utviklet seg mot scenario A eller B, og må da velge:
-
-- **A:** Bygg 2045–2055, i drift fra 2055.
-- **B:** Avslutt – ingen utbygging.
-
-Begge alternativer har altså en innebygd fleksibilitet: beslutningen om faktisk utbygging tas først når man vet mer om hvilket scenario som har inntruffet. Forskjellen mellom alternativene er *når* denne informasjonen hentes inn, og dermed når kraftverket eventuelt kan stå ferdig.
+![Beslutningstreet](forelesninger/img/kjernekraft-realopsjon.png)
 
 ## Kritiske faktorer
-
-Rangeringen av de to alternativene (målt som netto nåverdi, NV) avhenger av fire forhold som studentene skal vurdere:
 
 1. **Er alternativene i realiteten identiske bortsett fra tidspunkt?** Hvis den underliggende stasjonære sannsynligheten for scenario A vs. B er lik uansett når man planlegger, dominerer alternativ 1 rent tidsmessig: NV(alternativ 1) > NV(alternativ 2) på grunn av diskontering alene.
 2. **Øker ventingen sannsynligheten for suksess?** Hvis det å vente til 2035 øker sannsynligheten for at teknologien har modnet til scenario A, kan dette snu rangeringen: NV(alternativ 1) < NV(alternativ 2).
@@ -58,8 +51,6 @@ Disse fire faktorene skal danne grunnlaget for studentenes kvantitative og kvali
 
 ## Informasjon som må innhentes
 
-For å kunne besvare caset må følgende hentes inn og begrunnes, med utgangspunkt i NOU 2026:4 og andre relevante kilder:
-
 - Investeringskostnad
 - Driftskostnad
 - Byggetid
@@ -68,25 +59,7 @@ For å kunne besvare caset må følgende hentes inn og begrunnes, med utgangspun
 - Fremtidig kraftpris
 - Infrastruktur
 
-## Oppgave
 
-Studentene skal levere en nytte-kostnadsanalyse av beslutningen om kjernekraft i Norge, strukturert som en vurdering av beslutningstreet over. Besvarelsen skal:
+Dere vil trolig kunne finne svar på alle disse punktene i [NOU 2026:4](https://www.regjeringen.no/no/dokumenter/nou-2026-4/id3155361/). 
 
-1. **Hente inn og begrunne data** for de sju punktene i informasjonsoversikten over, med tydelig kildehenvisning (NOU 2026:4 og eventuelt supplerende kilder).
-2. **Sette opp beslutningstreet** med nåverdiberegninger for begge alternativer, under begge scenarioer (A og B), med eksplisitte forutsetninger om sannsynligheter og diskonteringsrente.
-3. **Drøfte de fire kritiske faktorene** eksplisitt, og vise hvordan hver av dem påvirker rangeringen mellom alternativ 1 og alternativ 2.
-4. **Gjennomføre en sensitivitetsanalyse** av konklusjonen med hensyn til sentrale forutsetninger (særlig sannsynlighet for scenario A/B, prisbane for strøm, og kostnadsutvikling).
-5. **Konkludere** med en anbefaling: bør Norge starte planlegging av kjernekraft nå, eller vente til 2035? Konklusjonen skal være eksplisitt forankret i tallene og drøftingen over, ikke bare i en kvalitativ vurdering.
 
-## Praktisk informasjon
-
-::: {.callout-note}
-Fyll inn følgende før utsending til studentene:
-
-- **Innleveringsfrist:** [DATO]
-- **Arbeidsform:** [individuelt / i grupper på N]
-- **Omfang:** [maks sideantall / ordantall]
-- **Format på besvarelsen:** [PDF / Word / annet]
-- **Vurderingskriterier / vekting:** [f.eks. datagrunnlag, modellering, drøfting av kritiske faktorer, sensitivitetsanalyse, konklusjon]
-- **Innleveringssted:** [Canvas / e-post / annet]
-:::
