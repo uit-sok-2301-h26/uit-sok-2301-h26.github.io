@@ -18,7 +18,7 @@ Pensum:
 |--------|----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
 |17.aug|F1   |Presentasjon av kurset. Hva er nytte-kostnadsanalyse? Presentasjon av case| ES/ØS       | Veil. [Kap. 1](https://www.dfo.no/1-en-innforing-i-hvordan-statlige-tiltak-skal-utredes), [, 2](https://www.dfo.no/2-samfunnsokonomiske-analyser-som-grunnlag-gode-beslutninger), [, 3.1, 3.2](https://www.dfo.no/3-hvordan-gjennomfore-en-samfunnsokonomisk-analyse-og-folge-opp-kravene-i-utredningsinstruksen)  [Forelesning 1](forelesninger/Forelesning 1.pptx) [pdf](forelesninger/Forelesning 1.pdf) |
 |24.aug|F2  | Mikroøkonomisk fundament for nytte-kostnadsanalyse | ØS | BGVW kap. 2, 3 [Forelesning 2](forelesninger/Forelesning 2.pdf) |
-|31.aug|F3  | Verdsetting av effekter i innsatsmarkedet, sluttproduktmarkedet og sekundærmarkedet | ØS |  BGVW kap. 5, 6, 7 |
+|31.aug|F3  | Verdsetting av effekter i innsatsmarkedet, sluttproduktmarkedet og sekundærmarkedet | ØS |  BGVW kap. 5, 6, 7 [Forelesning 3](forelesninger/Forelesning 3.pdf) |
 |04.sep|F4| Identifisering av virkninger  | ES | Veil [Kap 3.3](https://www.dfo.no/kap-33-identifisere-virkninger-fase-3)[, 4.3](https://www.dfo.no/4-utvalgte-temaer-i-samfunnsokonomiske-analyser)[, vedlegg 1.1](https://www.dfo.no/vedlegg-3) [Forelesning 4](forelesninger/Forelesning 4.html) [pdf](forelesninger/Forelesning-4.pdf) |
 |07.sep|F5  | Verdsetting uten markedspris og Diskontering | ØS |  BGVW kap. 9, 10, 15|
 |11.sep|**Frist** AK 1  | Innlevering av første arbeidskrav |  |Fredag 11. sept. 1600  |
