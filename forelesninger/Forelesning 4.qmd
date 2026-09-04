@@ -21,7 +21,7 @@ Som hovedregel er det kun grupper i Norge som skal tas med.
 
 # Nyttevirkninger
 
-Nyttevirkninger er gir enkeltgrupper eller befolkningen økt velferd. Nytten bør helst kunne kvantifiseres. Eksempler på nyttevirkninger er
+Nyttevirkninger gir enkeltgrupper eller befolkningen økt velferd. Nytten bør helst kunne kvantifiseres. Eksempler på nyttevirkninger er
 
 * økt trygghet som følge av redusert kriminalitet
 * økt tilfredshet hos brukerne når kvaliteten på tjenesten forbedres
@@ -31,11 +31,11 @@ Nyttevirkninger er gir enkeltgrupper eller befolkningen økt velferd. Nytten bø
 * økt personvern som følge av nytt regelverk
 * kostnadsbesparelser som frigjør ressurser
 
-
+Nyttevirkninger som kan kvantifiseres kalles prissatte virkninger. For eksempel kan tidsbesparelser verdsettes i kroner ved å bruke gjennomsnittlig lønn som en indikator på verdien av tid. Andre nyttevirkninger kan være vanskeligere å verdsette, for eksempel økt trygghet eller bedre helse. Slike virkninger kalles ikke-prissatte virkninger.
 
 # Kostnadsvirkninger:
 
-Kostnadsvirkninger, også kalt negative virkninger,43 er virkninger som reduserer velferden for én eller flere grupper i samfunnet eller for samfunnet samlet som følge av tiltaket, for eksempel
+Kostnadsvirkninger, også kalt negative virkninger, er virkninger som reduserer velferden for én eller flere grupper i samfunnet eller for samfunnet samlet som følge av tiltaket, for eksempel
 
 * tap av liv og helse ved økt risiko for ulykker
 * miljøkostnader som følge av tapte naturområder
@@ -50,7 +50,13 @@ Omfordeling av ressurser mellom berørte grupper gir i utgangspunktet ingen reel
 
 Dersom omfordelingen fører til endret adferd hos dem som mottar eller fratas midler, skal slike tilpasninger tas med som en samfunnsøkonomisk virkning. Det finnes en rekke overføringer som vil kunne lede til endret adferd, for eksempel avgifter, tilskudd eller subsidier. For eksempel kan reduserte avgifter lede til at flere bedrifter etablerer seg i et marked.
 
-Det er viktig å huske på at omfordelingen mellom ulike grupper kan innebære en endring i skattefinansieringskostnaden og dermed påvirke tiltakets samfunnsøkonomiske lønnsomhet. For eksempel vil økt barne- eller arbeidstrygd føre til økt skattefinansieringskostnad.
+Det er viktig å huske på at omfordelingen mellom ulike grupper kan innebære en endring i skattefinansieringskostnaden og dermed påvirke tiltakets samfunnsøkonomiske lønnsomhet. For eksempel vil økt barne- eller trygdutgifter føre til økt skattefinansieringskostnad.
+
+# Privat vs. samfunnsøkonomisk lønnsomhet
+
+Uten eksterne virkninger vil privatøkonomisk lønnsomhet være lik samfunnsøkonomisk lønnsomhet. Dersom det er eksterne virkninger vil privatøkonomisk lønnsomhet ikke være lik samfunnsøkonomisk lønnsomhet. For eksempel vil en miljøavgift føre til at bedriftene tar hensyn til de negative eksterne virkningene, og dermed vil privatøkonomisk lønnsomhet være lavere enn samfunnsøkonomisk lønnsomhet.
+
+Utgangspunktet for en samfunnsøkonomisk analyse er derfor den privatøkonomiske netto nåverdien av tiltaket. Dersom det er eksterne virkninger, må disse legges til eller trekkes fra for å finne den samfunnsøkonomiske nytte-kostnads virkningen.
 
 
 
