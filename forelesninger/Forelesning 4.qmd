@@ -11,6 +11,7 @@ date: "2025-08-14"
 
 Det følger av Finansdepartementets rundskriv [R-109/2021]( https://www.regjeringen.no/no/tema/okonomi-og-budsjett/statlig-okonomistyring/samfunnsokonomiske-analyser/id438830/) at man i utredningen skal beskrive hvilke nytte- og kostnadsvirkninger de ulike tiltakene forventes å ha, hvem og hvilke områder som blir berørt, og hvordan disse blir berørt. Virkningene skal beskrives som *endringer sammenlignet med nullalternativet*. 
 Virkninger som *ikke* skal telles med:
+
 * Virkninger som også ville ha oppstått uten tiltaket
 * Kostnader (eller nytte) som allerede har påløpt eller vedtatt, skal ikke inkluderes («sunk cost»)
 
