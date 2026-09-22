@@ -1,0 +1,16 @@
+project:
+  type: default
+  render:
+
+    - forelesninger/Forelesning 4.qmd
+    - forelesninger/Forelesning 7.qmd
+    - forelesninger/Forelesning 8.qmd
+    - case-kjernekraft.qmd
+  
+
+
+format:
+  pdf: default
+  ipynb: default
+  html:
+    include-before-body: _includes/inject-navbar.html

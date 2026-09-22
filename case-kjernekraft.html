@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="SOK-2301 – Nytte-kostnadsanalyse">
-<meta name="dcterms.date" content="2026-08-28">
+<meta name="dcterms.date" content="2026-09-07">
 
 <title>Årets case: Kjernekraft i Norge</title>
 <style>
@@ -52,6 +52,25 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
 <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="case-kjernekraft.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></div>
 <main class="content" id="quarto-document-content">
+<div id="site-navbar"></div>
+
+<div id="site-topbox"></div>
+
+<script>
+
+  fetch('/navbar.html').then(r => r.text()).then(html => {
+
+    document.getElementById('site-navbar').outerHTML = html;
+
+  });
+
+  fetch('/top-box.html').then(r => r.text()).then(html => {
+
+    document.getElementById('site-topbox').outerHTML = html;
+
+  });
+
+</script>
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -73,7 +92,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">August 28, 2026</p>
+      <p class="date">September 7, 2026</p>
     </div>
   </div>
   

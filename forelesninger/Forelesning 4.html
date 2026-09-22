@@ -52,6 +52,25 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
 <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="Forelesning-4.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li><li><a href="Forelesning 4.ipynb" download="Forelesning 4.ipynb"><i class="bi bi-journal-code"></i>Jupyter</a></li></ul></div></div>
 <main class="content" id="quarto-document-content">
+<div id="site-navbar"></div>
+
+<div id="site-topbox"></div>
+
+<script>
+
+  fetch('/navbar.html').then(r => r.text()).then(html => {
+
+    document.getElementById('site-navbar').outerHTML = html;
+
+  });
+
+  fetch('/top-box.html').then(r => r.text()).then(html => {
+
+    document.getElementById('site-topbox').outerHTML = html;
+
+  });
+
+</script>
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -137,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
 <li>En miljøavgift sørger for redusert produksjon av en vare med negative eksterne effekter (for eksempel en forurensende bedrift). Det reduserte forbruket er ikke en ekstra virkning, men bare en kostnad som er flyttet fra negative miljøkonsekvenser for samfunnet til et “tilsynelatende dødvektstap”.</li>
 <li>En kanskje enda vanligere dobbeltelling er samme virkning med ulik benevnelse, for eksempel om en både teller opp at det er blitt flere fisk i elven på grunn av mindre forurensning og at fiskerene har fått økt overskudd.</li>
 </ul>
-<div id="15ee7418" class="cell" data-execution_count="1">
+<div id="a45bb15f" class="cell" data-execution_count="1">
 <div class="cell-output cell-output-stdout">
 <pre><code>Likevektsvolum uten eksterne effekter er 67.01254150645487
 Likevektsvolum med eksterne effekter er 50.0</code></pre>

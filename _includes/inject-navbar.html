@@ -1,0 +1,10 @@
+<div id="site-navbar"></div>
+<div id="site-topbox"></div>
+<script>
+  fetch('/navbar.html').then(r => r.text()).then(html => {
+    document.getElementById('site-navbar').outerHTML = html;
+  });
+  fetch('/top-box.html').then(r => r.text()).then(html => {
+    document.getElementById('site-topbox').outerHTML = html;
+  });
+</script>
