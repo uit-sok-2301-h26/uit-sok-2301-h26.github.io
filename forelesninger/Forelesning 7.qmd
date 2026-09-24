@@ -91,5 +91,7 @@ Beregn netto nåverdi
 1.  Hvordan er tiltakene rangert ihht. netto nåverdi?
     -   finn netto nåverdi for tiltakene som er vurdert
     -   er det bare ett, hvordan er det rangert ift. 0-alternativet
+    -   om ikke nåverdi er beregnet i det hele tatt, hvordan er tiltakene rangert?
 2.  Hvordan er ikke-prissatte virkninger vurdert?
 3.  Påvirker ikke-prissatte virkninger rapportens anbefaling?
+4.  Er fordelingsvirkninger vurdert, og hvordan påvirker det i så fall konklusjonen.

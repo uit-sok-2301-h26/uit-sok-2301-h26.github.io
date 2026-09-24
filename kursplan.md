@@ -28,7 +28,7 @@ Pensum:
 |09.okt|**Frist** AK 2  | Innlevering av andre arbeidskrav |  |Fredag 9. okt. 1600 |
 |12.okt|F9  | Sammenfatning av effekter/tips til oppgaven| ES |[ Veil Kap 3.7, 3.8](https://www.dfo.no/kap-37-beskriv-fordelingsvirkninger-fase-7) |
 |16.okt|| Risiko, sensitivitetsanalyse og opsjonsverdi/repetisjon | ØS |  BGVW kap. 11|
-|19.okt|F10| Ekstern presentasjon? | ES |  |
+|19.okt|F10| Kristin Halvorsen kommer på Teams! | ES |  |
 |02.nov|Reserve| | |
 |10.nov|**Presentasjon** | Presentasjon av prosjektoppgaven  | ES |[Påmeldingsskjema](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=LSF_Ttt0Y0Wle4rkTtBVJjhP3KMFoaZDp37xqZnsVYtUNTlHQ0xNOFkzNkIxOFBMQUc0UksxSTROOS4u) |
 |18.nov|**Frist** PRO  | Innlevering av prosjektoppgave | | Kl. 16.00  |
