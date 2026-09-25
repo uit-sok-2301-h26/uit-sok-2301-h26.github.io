@@ -38,7 +38,7 @@ Fram mot beslutningstidspunktet kan den globale teknologimodningen for kjernekra
 | Investeringskostnad | Nær lønnsomhetsterskelen | Langt over lønnsomhetsterskelen |
 
 ## Beslutningstreet
-![Beslutningstreet](forelesninger/img/kjernekraft-realopsjon.png)
+![Beslutningstreet](kjernekraft-realopsjon.png)
 
 ## Kritiske faktorer
 

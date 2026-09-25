@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="SOK-2301 – Nytte-kostnadsanalyse">
-<meta name="dcterms.date" content="2026-09-07">
+<meta name="author" content="Espen Sirnes">
+<meta name="dcterms.date" content="2025-09-02">
 
-<title>Årets case: Kjernekraft i Norge</title>
+<title>3: Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -31,17 +31,17 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="case-kjernekraft_files/libs/clipboard/clipboard.min.js"></script>
-<script src="case-kjernekraft_files/libs/quarto-html/quarto.js" type="module"></script>
-<script src="case-kjernekraft_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="case-kjernekraft_files/libs/quarto-html/popper.min.js"></script>
-<script src="case-kjernekraft_files/libs/quarto-html/tippy.umd.min.js"></script>
-<script src="case-kjernekraft_files/libs/quarto-html/anchor.min.js"></script>
-<link href="case-kjernekraft_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="case-kjernekraft_files/libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="case-kjernekraft_files/libs/bootstrap/bootstrap.min.js"></script>
-<link href="case-kjernekraft_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="case-kjernekraft_files/libs/bootstrap/bootstrap-215b371544c282197b31c8aa00ce3677.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="Forelesning7_files/libs/clipboard/clipboard.min.js"></script>
+<script src="Forelesning7_files/libs/quarto-html/quarto.js" type="module"></script>
+<script src="Forelesning7_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="Forelesning7_files/libs/quarto-html/popper.min.js"></script>
+<script src="Forelesning7_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="Forelesning7_files/libs/quarto-html/anchor.min.js"></script>
+<link href="Forelesning7_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="Forelesning7_files/libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="Forelesning7_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="Forelesning7_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="Forelesning7_files/libs/bootstrap/bootstrap-215b371544c282197b31c8aa00ce3677.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 
 
 </head>
@@ -50,7 +50,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
 <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="case-kjernekraft.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></div>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="Forelesning7.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li><li><a href="Forelesning7.ipynb" download="Forelesning7.ipynb"><i class="bi bi-journal-code"></i>Jupyter</a></li></ul></div></div>
 <main class="content" id="quarto-document-content">
 <div id="site-navbar"></div>
 
@@ -74,8 +74,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Årets case: Kjernekraft i Norge</h1>
-<p class="subtitle lead">Beslutningstre: planlegge nå vs.&nbsp;vente og se</p>
+<h1 class="title">3: Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet</h1>
+<p class="subtitle lead">SOK-2301 - Nytte-kostnadsanalyse i teori og praksis</p>
 </div>
 
 
@@ -85,14 +85,14 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>SOK-2301 – Nytte-kostnadsanalyse </p>
+             <p>Espen Sirnes </p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">September 7, 2026</p>
+      <p class="date">September 2, 2025</p>
     </div>
   </div>
   
@@ -104,88 +104,177 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="oppgavetekst" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="oppgavetekst"><span class="header-section-number">1</span> Oppgavetekst</h2>
-<p>Lag en samfunnsøkonomisk nytte-kostnadsanalyse om bygging av kjernekraft i Norge.</p>
-<p>Analysen skal vurdere følgende alternativer: - Starte planleggingen nå og ta endelig beslutning i 2035 - Utsette planleggingen til senere (for eksempel 2035) og ta endelig beslutning i 2055</p>
-<p>Årstallene for endelig beslutning og planlegging er veiledende, og kan endres etter behov.</p>
+<section id="framgangsmåte-for-å-vurdere-virkninger" class="level1">
+<h1>Framgangsmåte for å vurdere virkninger</h1>
+<ul>
+<li>Alle positive og negative virkninger tallfestes så langt det lar seg gjøre</li>
+<li>Dersom betalingsvilligheten &gt; summen av kostnadene:
+<ul>
+<li>→ Samfunnsøkonomisk lønnsomt.</li>
+</ul></li>
+<li>Kostnadene ⇔ verdien av det en må gi opp av andre ting (alternativkostnad)</li>
+<li>Nytten ⇔ hvor mye en er villig til å betale (folks samlede betalingsvillighet)</li>
+<li>Flest mulig virkninger fastsettes i kroner</li>
+</ul>
 </section>
-<section id="bakgrunn" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="bakgrunn"><span class="header-section-number">2</span> Bakgrunn</h2>
-<p>Norge må ta stilling til om, og eventuelt når, det bør planlegges for kjernekraft. Regjeringens ekspertutvalg har nylig lagt fram sin utredning, <a href="https://www.regjeringen.no/no/dokumenter/nou-2026-4/id3155361/">NOU 2026:4</a>, som danner utgangspunktet for dette caset.</p>
-<p>Beslutningen har en klar realopsjons-struktur: å starte planlegging nå gir Norge et kraftverk tidligere i drift, men til en investeringskostnad og med en teknologimodenhet som ennå er usikker. Å vente gir mer informasjon før beslutningen tas, men utsetter en eventuell gevinst og innebærer at man går glipp av tidlig produksjon.</p>
+<section id="finn-effekt-kvanta-og-pris-for-å-tallfeste-virkningene" class="level1">
+<h1>Finn effekt, kvanta og pris, for å tallfeste virkningene</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/samfokverdi.png" class="img-fluid figure-img"></p>
+<figcaption>Samfunnsøkonomisk verdi</figcaption>
+</figure>
+</div>
 </section>
-<section id="to-måter-verden-kan-utvikle-seg" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="to-måter-verden-kan-utvikle-seg"><span class="header-section-number">3</span> To måter verden kan utvikle seg</h2>
-<p>Fram mot beslutningstidspunktet kan den globale teknologimodningen for kjernekraft utvikle seg i to retninger, som her kalles <strong>scenario A</strong> og <strong>scenario B</strong>:</p>
+<section id="kvantum" class="level1">
+<h1>Kvantum</h1>
+<ul>
+<li>Institusjoner</li>
+<li>Personer</li>
+<li>Bygg</li>
+<li>++ …</li>
+</ul>
+</section>
+<section id="metoder-for-å-finne-virkninger" class="level1">
+<h1>Metoder for å finne virkninger:</h1>
+<ul>
+<li>Estimere virkninger med empiriske data</li>
+<li>Randomiserte kontrollerte forsøk</li>
+<li>Naturlige eksperimenter</li>
+<li>Lab-eksperimenter</li>
+<li>Generell empirisk og teroretisk kunnskap</li>
+<li>Tidligere analyser</li>
+</ul>
+</section>
+<section id="enhetspris" class="level1">
+<h1>Enhetspris</h1>
+<ul>
+<li>Lønnsutgifter: Brutto reallønn inkl. arb.giveravg. og sosiale kostn.</li>
+<li>Fritid: Netto inntekt etter skatt</li>
+<li>Størst mulig grad markedspriser</li>
+<li>Vareinnsats: Pris eksl. toll + avgifter, inkl. avgift+kvotepris som er korreksjon</li>
+<li>Kvotekostnad uten CO-avgift brukes til kostnad ved klimagassutslipp</li>
+<li>Verdien på et statistisk liv - 55 mill.</li>
+<li><a href="https://www.vegvesen.no/fag/publikasjoner/hoeringer/23-50086-20-horing-revidert-veileder-v712-konsekvensanalyser/">Nyttig side fra statens vegesen</a></li>
+</ul>
+</section>
+<section id="beregn-samfunnsøknomisk-effekt" class="level1">
+<h1>Beregn samfunnsøknomisk effekt</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/samfokverdi.png" class="img-fluid figure-img"></p>
+<figcaption>Samfunnsøkonomisk verdi</figcaption>
+</figure>
+</div>
+</section>
+<section id="skattefinansieringskostnad" class="level1">
+<h1>Skattefinansieringskostnad</h1>
+<ol type="1">
+<li>Identifiser direkte netto virkningen på offentlige budsjetter</li>
+<li>Identifiser indirekte netto endring i beskatningsgrunnlaget og multipliser med 45%</li>
+<li>Skattefinansieringskostnaden er 20% av 1 og 2</li>
+</ol>
+</section>
+<section id="ikke-prissatte-virkninger" class="level1">
+<h1>Ikke prissatte virkninger</h1>
+<ul>
+<li>verdimatrisemetoden</li>
+</ul>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 33%">
-<col style="width: 33%">
-<col style="width: 33%">
+<col style="width: 31%">
+<col style="width: 22%">
+<col style="width: 22%">
+<col style="width: 22%">
 </colgroup>
 <thead>
 <tr class="header">
-<th></th>
-<th>Scenario A – billig og enkelt</th>
-<th>Scenario B – dyrt og komplisert</th>
+<th>Kvantum / Enhetsverdi</th>
+<th>Liten</th>
+<th>Middels</th>
+<th>Høy</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Design</td>
-<td>Modne, standardiserte design (f.eks. SMR)</td>
-<td>Fortsatt umodne leverandørkjeder</td>
+<td>Stort negativt</td>
+<td>Middels negativ</td>
+<td>Stor negativ</td>
+<td>Meget stor negativ</td>
 </tr>
 <tr class="even">
-<td>Erfaring</td>
-<td>Erfaring fra internasjonale prosjekter reduserer risiko</td>
-<td>Kostnadsoverskridelser og forsinkelser (jf. Olkiluoto 3, Vogtle)</td>
+<td>Middels negativt</td>
+<td>Liten negativ</td>
+<td>Middels negativ</td>
+<td>Stor negativ</td>
 </tr>
 <tr class="odd">
-<td>Byggetid</td>
-<td>Kort, forutsigbar byggetid</td>
-<td>Lang, usikker byggetid</td>
+<td>Lite negativt</td>
+<td>Ubetydelig/ingen</td>
+<td>Liten negativ</td>
+<td>Middels negativ</td>
 </tr>
 <tr class="even">
-<td>Investeringskostnad</td>
-<td>Nær lønnsomhetsterskelen</td>
-<td>Langt over lønnsomhetsterskelen</td>
+<td>Verken positivt eller negativt</td>
+<td>Ubetydelig/ingen</td>
+<td>Ubetydelig/ingen</td>
+<td>Ubetydelig/ingen</td>
+</tr>
+<tr class="odd">
+<td>Lite positivt</td>
+<td>Ubetydelig/ingen</td>
+<td>Liten positiv</td>
+<td>Middels positiv</td>
+</tr>
+<tr class="even">
+<td>Middels positivt</td>
+<td>Liten positiv</td>
+<td>Middels positiv</td>
+<td>Stor positiv</td>
+</tr>
+<tr class="odd">
+<td>Stort positivt</td>
+<td>Middels positiv</td>
+<td>Stor positiv</td>
+<td>Meget stor positiv</td>
 </tr>
 </tbody>
 </table>
 </section>
-<section id="beslutningstreet" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="beslutningstreet"><span class="header-section-number">4</span> Beslutningstreet</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="forelesninger/img/kjernekraft-realopsjon.png" class="img-fluid figure-img"></p>
-<figcaption>Beslutningstreet</figcaption>
-</figure>
-</div>
-</section>
-<section id="kritiske-faktorer" class="level2" data-number="5">
-<h2 data-number="5" class="anchored" data-anchor-id="kritiske-faktorer"><span class="header-section-number">5</span> Kritiske faktorer</h2>
-<ol type="1">
-<li><strong>Er alternativene i realiteten identiske bortsett fra tidspunkt?</strong> Hvis den underliggende stasjonære sannsynligheten for scenario A vs.&nbsp;B er lik uansett når man planlegger, dominerer alternativ 1 rent tidsmessig: NV(alternativ 1) &gt; NV(alternativ 2) på grunn av diskontering alene.</li>
-<li><strong>Øker ventingen sannsynligheten for suksess?</strong> Hvis det å vente til 2035 øker sannsynligheten for at teknologien har modnet til scenario A, kan dette snu rangeringen: NV(alternativ 1) &lt; NV(alternativ 2).</li>
-<li><strong>Øker strømprisen mye over tid?</strong> Hvis strømprisen vokser raskere enn diskonteringsrenten, kan NV(alternativ 1) &lt; NV(alternativ 2). Hvis mesteparten av prisøkningen derimot skjer <em>før</em> 2055, kan NV(alternativ 1) &gt; NV(alternativ 2).</li>
-<li><strong>Faller investeringskostnadene over tid?</strong> Hvis investeringskostnadene forventes å falle fra 2045 til 2055, kan dette også gi NV(alternativ 1) &lt; NV(alternativ 2).</li>
-</ol>
-<p>Disse fire faktorene skal danne grunnlaget for studentenes kvantitative og kvalitative vurdering av de to alternativene.</p>
-</section>
-<section id="informasjon-som-må-innhentes" class="level2" data-number="6">
-<h2 data-number="6" class="anchored" data-anchor-id="informasjon-som-må-innhentes"><span class="header-section-number">6</span> Informasjon som må innhentes</h2>
+<section id="vurder-forventningsverdier" class="level1">
+<h1>Vurder forventningsverdier</h1>
 <ul>
-<li>Investeringskostnad</li>
-<li>Driftskostnad</li>
-<li>Byggetid</li>
-<li>Produksjon</li>
-<li>Levetid</li>
-<li>Fremtidig kraftpris</li>
-<li>Infrastruktur</li>
+<li><p>Summen av Sannsuynlighet * kostnad</p></li>
+<li><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/fordeling_anslag.png" class="img-fluid figure-img"></p>
+<figcaption>Samfunnsøkonomisk verdi</figcaption>
+</figure>
+</div></li>
 </ul>
-<p>Dere vil trolig kunne finne svar på alle disse punktene i <a href="https://www.regjeringen.no/no/dokumenter/nou-2026-4/id3155361/">NOU 2026:4</a>.</p>
+</section>
+<section id="vurdere-samfunnsøkonomisk-lønnsomhet" class="level1">
+<h1>Vurdere samfunnsøkonomisk lønnsomhet</h1>
+<ol type="1">
+<li>Bruk nåverdimetoden for prissatte virkninger → ranger tiltakene</li>
+<li>Bruk verdimatrisemetoden til å sammenstille ikke-prissatte virkninger</li>
+<li>Ranger tiltakene basert på prissatte og ikke-prissatte virkninger</li>
+</ol>
+<p>Beregn netto nåverdi</p>
+</section>
+<section id="oppgave" class="level1">
+<h1>Oppgave</h1>
+<ol type="1">
+<li>Hvordan er tiltakene rangert ihht. netto nåverdi?
+<ul>
+<li>finn netto nåverdi for tiltakene som er vurdert</li>
+<li>er det bare ett, hvordan er det rangert ift. 0-alternativet</li>
+<li>om ikke nåverdi er beregnet i det hele tatt, hvordan er tiltakene rangert?</li>
+</ul></li>
+<li>Hvordan er ikke-prissatte virkninger vurdert?</li>
+<li>Påvirker ikke-prissatte virkninger rapportens anbefaling?</li>
+<li>Er fordelingsvirkninger vurdert, og hvordan påvirker det i så fall konklusjonen.</li>
+</ol>
 </section>
 
 </main>
