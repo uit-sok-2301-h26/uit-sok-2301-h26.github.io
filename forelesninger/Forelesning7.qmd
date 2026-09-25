@@ -41,14 +41,12 @@ date: "2025-09-02"
 -   Lønnsutgifter: Brutto reallønn inkl. arb.giveravg. og sosiale kostn.
 -   Fritid: Netto inntekt etter skatt
 -   Størst mulig grad markedspriser
--   Vareinnsats: Pris eksl. toll + avgifter, inkl. avgift+kvotepris som er korreksjon
+-   Vareinnsats: Pris eksl. toll,avgifter + avgifter relatert til eksternaliteter +kvotepris
 -   Kvotekostnad uten CO-avgift brukes til kostnad ved klimagassutslipp
 -   Verdien på et statistisk liv - 55 mill.
 -   [Nyttig side fra statens vegesen](https://www.vegvesen.no/fag/publikasjoner/hoeringer/23-50086-20-horing-revidert-veileder-v712-konsekvensanalyser/)
 
-# Beregn samfunnsøknomisk effekt
 
-![Samfunnsøkonomisk verdi](img/samfokverdi.png)
 
 # Skattefinansieringskostnad
 
