@@ -24,7 +24,7 @@ Pensum:
 |11.sep|**Frist** AK 1  | Innlevering av første arbeidskrav |  |Fredag 11. sept. 1600  |
 |21.sep|F6| Risiko, sensitivitetsanalyse og opsjonsverdi | ØS |  BGVW kap. 11|
 |25.sep|F7  |Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet | ES | Veil [Kap 3.4, 3.5](https://www.dfo.no/kap-34-tallfeste-verdsette-og-vurdere-virkninger-fase-4)  [Forelesning 7](forelesninger/Forelesning7_.html) [pdf](forelesninger/Forelesning7.pdf)|
-|05.okt|F8| Usikkerhet og virkninger uten markedspris | ES | Veil [Kap 4.1, 4.4](https://www.dfo.no/4-utvalgte-temaer-i-samfunnsokonomiske-analyser) [, 3.6](https://www.dfo.no/kap-36-gjennomfore-usikkerhetsanalyse-fase-6) [Forelesningsnotat 8](forelesninger/Forelesning8_.html) [pdf](forelesninger/Forelesning8.pdf) [jupyter](forelesninger/Forelesning 8.ipynb)|
+|05.okt|F8| Usikkerhet og virkninger uten markedspris/nytteberegning for caset | ES | Veil [Kap 4.1, 4.4](https://www.dfo.no/4-utvalgte-temaer-i-samfunnsokonomiske-analyser) [, 3.6](https://www.dfo.no/kap-36-gjennomfore-usikkerhetsanalyse-fase-6) [Forelesningsnotat 8](forelesninger/Forelesning8_.html) [pdf](forelesninger/Forelesning8.pdf) [jupyter](forelesninger/Forelesning 8.ipynb)[Nytteberegning for caset](case-kjernekraft\nytte_kjernekraft.pdf)|
 |09.okt|**Frist** AK 2  | Innlevering av andre arbeidskrav |  |Fredag 9. okt. 1600 |
 |12.okt|F9  | Sammenfatning av effekter/tips til oppgaven| ES |[ Veil Kap 3.7, 3.8](https://www.dfo.no/kap-37-beskriv-fordelingsvirkninger-fase-7) |
 |16.okt|| Risiko, sensitivitetsanalyse og opsjonsverdi/repetisjon | ØS |  BGVW kap. 11|

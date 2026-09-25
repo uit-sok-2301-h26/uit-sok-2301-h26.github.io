@@ -1,8 +1,8 @@
 project:
   type: default
   render:
+    - case-kjernekraft/nytte_kjernekraft.md
     - case-kjernekraft/case-kjernekraft.qmd
-    - case-kjernekraft/nytte_kjernekraft.qmd
     - forelesninger/Forelesning4.qmd
     - forelesninger/Forelesning7.qmd
     - forelesninger/Forelesning8.qmd
