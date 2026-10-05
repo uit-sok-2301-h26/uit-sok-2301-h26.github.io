@@ -82,7 +82,8 @@ subtitle: SOK-2301 - Nytte-kostnadsanalyse i teori og praksis
 |   | Pessimistisk verdi (P15) | Forventet verdi (P50)| Optimistisk verdi (P85)|
 |-------------------|------------------|------------------|------------------|
 | Forventet investeringskostnad (mill. kr) | 300 | 125 | 50 |
-| Netto nåverdi (mill. kr) | -47 | 128 | 203 |
+| NV nytte (mill. kr) | 200 | 253 | 301 |
+| Netto nåverdi (mill. kr) | -100 | 128 | 251 |
 
 # Mer avanserte usikkerhetsanalyser
 
