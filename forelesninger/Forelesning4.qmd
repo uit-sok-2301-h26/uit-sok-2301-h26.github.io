@@ -1,5 +1,5 @@
 ---
-title: "2: Virkninger og ringvirkninger "
+title: "4: Virkninger og ringvirkninger "
 subtitle: SOK-2301 - Forelesning 2
 author: "Espen Sirnes"
 date: "2025-08-14"

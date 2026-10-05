@@ -1,5 +1,5 @@
 ---
-title: "3: Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet"
+title: "7: Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet"
 subtitle: SOK-2301 - Nytte-kostnadsanalyse i teori og praksis
 
 author: "Espen Sirnes"

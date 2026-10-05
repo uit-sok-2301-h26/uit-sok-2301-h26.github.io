@@ -1,11 +1,11 @@
 ---
-title: "4: Virkninger uten markedspris og usikkerhet"
+title: "8: Virkninger uten markedspris og usikkerhet"
 subtitle: SOK-2301 - Nytte-kostnadsanalyse i teori og praksis
 
 
 ---
-
-# Oversikt over ulike verdsettingsmetoder for prissetting:
+# Versettingsmetoder
+## Oversikt over ulike verdsettingsmetoder for prissetting:
 
 |   | Tilnærming | Type verdi | Vanligste verdsettingsmetoder |
 |-----------------|-----------------|-----------------|--------------------|
@@ -13,52 +13,54 @@ subtitle: SOK-2301 - Nytte-kostnadsanalyse i teori og praksis
 | Parallelle markeder | Avslørte preferanser | Bruksverdi | Hedonisk prising (eiendomspriser, lønninger), reisekostnadsmetoden |
 | Hypotetiske markeder | Uttrykte preferanser | Bruksverdi og ikke-bruksverdi | Betinget verdsetting, valgeksperimenter |
 
-# Markedsbasert
+## Markedsbasert
 
 -   Den foretrukkene metoden
 -   Markedspriser er ofte ikke tilgjengelig
 
-# Metoder basert på avslørte preferanser
+## Metoder basert på avslørte preferanser
 
 -   Forholdsvis pålitelig
 -   Begrenset bruksområde
 -   Mest egnet til bruksverdi
 -   Bør suppleres med uttryket preferanser
 
-# Metode for uttrykte preferanser
+## Metode for uttrykte preferanser
 
 -   Kan anvendes på alle typer goder
 -   Folk vil ofte ikke oppgi korrekte svar på hypotetiske valg
 
-# Bruk av fageksperter for å verdsette virkninger
+## Bruk av fageksperter for å verdsette virkninger
 
 -   Bedre til å vurdere sannsynligheter
 -   Samme metoder for å avdekke preferanser kan brukes på eksperter
 -   Ekspertvurdering vil ikke alltid samsvare med publikums egne preferanser
 -   Brukes til å lage scenarioer for betinget verdsetting og valgeksperimenter
 
-# Miljøvirkninger
+## Miljøvirkninger
 
-![Miljøverdi](img/miljovordering.png)
+![Miljøverdi](https://uit-sok-2301-h26.github.io/forelesninger/img/miljovordering.png)
 
 -   Miljøverdi kan være vanskelig å verdsette, spesielt ikke-bruksverdi
 -   Respondenter har ikke erfaring med å velge tilgangen eller kvalitet
 -   Verdioverføringer fra tidligere gjennomførte studier
     -   forutsetter høy kvalitet på underliggende verdsettingsstudier
 
-# Kostnadsbasert verdsettelse
+## Kostnadsbasert verdsettelse
 
 -   Beregne hva det vil koste å unngå eller avbøte tapet av et miljøgode
 -   F.eks. støyisolering
 
-# Vurdering av usikkerhet kan grovt sett bestå av disse fire stegene:
+# Usikkerhet
+
+## Vurdering av usikkerhet kan grovt sett bestå av disse fire stegene:
 
 -   kartlegg usikkerhetsfaktorene
 -   klassifiser usikkerhetsfaktorene
 -   gjennomfør usikkerhetsanalyse
 -   vurder risikoreduserende tiltak
 
-# Husk at usikkerhet allerede kan ha blitt tatt høyde for
+## Husk at usikkerhet allerede kan ha blitt tatt høyde for
 
 -   Tiltak med høy risiko eller umoden teknologi kan ha blitt forkastet når relevante tiltak ble valg ut i arbeidsfase 2
 -   Forventningsverdien tar hensyn til ulike sannsynligheter for ulike utfall
@@ -90,7 +92,7 @@ subtitle: SOK-2301 - Nytte-kostnadsanalyse i teori og praksis
 -   simuleringer
     -   Monte Carlo
 
-# Monte Carlo
+## Monte Carlo
 
 ```{python}
 import numpy as np
@@ -157,7 +159,7 @@ plt.show()
 
 ```
 
-# Risikoreduserende tiltak
+## Risikoreduserende tiltak
 
 -   forebygge avvik fra forventningsverdien
 -   planlegge for å begrense konsekvensene av avvik eller uheldige hendelser
@@ -168,12 +170,25 @@ plt.show()
 -   Det er sannsynlig at man senere får ny informasjon som gir god støtte i beslutningsprosessen.
 -   Det er handlingsrom når man på et senere tidspunkt skal ta en ny beslutning om tiltak.
 
-# Forskjellige typer realopsjoner
+## Forskjellige typer realopsjoner
 
 -   Utsatt beslutning
 -   Trinnvis utbygging
 -   Innbygd fleksibilitet
 -   Avslutning av tiltak
+
+## Beregne realopsjoner:
+
+- Lag scenarioer for ulike utfall
+- Anslå sannsynligheten for hvert scenario
+- Beregn forventningsverdien for hvert scenario
+- Beregn den totale forventede verdien av realopsjonen
+
+## Realopsjoner - forskjell fra finansielle opsjoner.
+
+- Kan ikke forutsette arbitrasjefrihet
+- Prisen dermed ikke gitt av det "underliggende"/"aksjen"
+- Vanlig opsjonsteori (Black-Scholes) kan ikke brukes.
 
 # Fordelingsvirkninger
 
@@ -186,7 +201,7 @@ plt.show()
     -   En kan da for eksempel sammenligne NV til ulike alternative måter å oppnå en bestemt fordeling
 -   Vurder om det finnes kompenserende alternativer
 
-# Hvilke fordelingsvirkninger er relevante?
+## Hvilke fordelingsvirkninger er relevante?
 
 -   geografiske regioner i Norge
 -   offentlige virksomheter
@@ -194,7 +209,7 @@ plt.show()
 -   privatpersoner
 -   brukere og ikke-brukere av et offentlig tiltak
 
-# Hvilke fordelingsvirkninger er relevante?
+## Hvilke fordelingsvirkninger er relevante?
 
 -   sosioøkonomiske grupper, inndelt etter for eksempel
     -   inntektsnivå
@@ -207,7 +222,7 @@ plt.show()
 -   forskjellige generasjoner
 -   kjønn
 
-# Eksempel på fordelingsanalyse:
+## Eksempel på fordelingsanalyse:
 
 -   Tiltak forventes å gi et samfunnsøkonomisk overskudd på 250 mill.
 -   Deler inn i fem inntektsgrupper.
@@ -221,7 +236,7 @@ plt.show()
 | 5\. kvintil (høyest)          | 185 000 000                     |
 | **Summert over alle grupper** | **250 000 000**                 |
 
-# Gegografisk fordeling
+## Gegografisk fordeling
 
 ![Kart](img/tromso.png)
 

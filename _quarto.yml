@@ -12,6 +12,7 @@ project:
 
 format:
   pdf: default
-  ipynb: default
+  ipynb: 
+    filters: [split-cells.lua]
   html: default
 
